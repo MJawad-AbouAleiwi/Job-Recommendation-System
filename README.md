@@ -35,12 +35,11 @@ User interactions are weighted:
 Jobs with more engagement get higher ranking.
 
 ### 5. Final Score
+
 ```bash
-Final Score =  
-α × content similarity  
-+ β × user behavior  
-+ γ × popularity
-``` 
+Final Score = α × content similarity + β × user behavior + γ × popularity
+```
+
 ---
 
 ```bash
