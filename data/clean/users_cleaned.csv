@@ -1,0 +1,1338 @@
+UserID,City,State,Country,ZipCode,DegreeType,Major,GraduationDate,WorkHistoryCount,TotalYearsExperience,CurrentlyEmployed,ManagedOthers,ManagedHowMany,MajorCategoryID,Degree
+23,Mount Prospect,IL,US,60056,High School,not applicable,2002-01-01,3,10.0,Yes,No,0,0.0,high school
+698,Normal,IL,US,61761,Unknown,unknown,2000-01-01,4,7.0,Yes,No,0,-1.0,unknown
+2305,Lake Forest,IL,US,60045,Unknown,insurance,2010-12-01,4,9.0,Yes,No,0,180.0,unknown
+2785,Chicago,IL,US,60607,Bachelor's,international affairs,2005-01-01,6,10.0,Yes,No,0,191.0,bachelor s
+3406,Joliet,IL,US,60435,Bachelor's,english,2000-01-01,3,20.0,No,Yes,350,40.0,bachelor s
+5080,Jerseyville,IL,US,62052,Associate's,technology,1997-01-01,2,15.0,Unknown,No,0,128.0,associate s
+9157,Gurnee,IL,US,60031,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+10562,Montgomery,IL,US,60538,Associate's,general education,2008-01-01,2,6.0,Yes,No,0,131.0,associate s
+11060,Oak Brook,IL,US,60523,Bachelor's,computer engineering general,1991-01-01,6,17.0,No,No,0,110.0,bachelor s
+11400,Chicago,IL,US,60614,Bachelor's,history research intelligence analysis program and political science,1999-01-01,10,13.0,Yes,No,0,98.0,bachelor s
+13552,Morton Grove,IL,US,60053,Associate's,biology,2010-07-01,5,3.0,Unknown,No,0,0.0,associate s
+14744,Schaumburg,IL,US,60194,Bachelor's,fine arts,2005-01-01,3,7.0,No,Yes,10,111.0,bachelor s
+14980,Midlothian,IL,US,60445,High School,not applicable,1998-01-01,4,9.0,Yes,Yes,20,0.0,high school
+16003,Hazel Crest,IL,US,60429,High School,business administration,2006-06-01,7,7.0,Yes,No,0,80.0,high school
+18111,Chicago,IL,US,60601,Master's,marketing,1998-01-01,7,16.0,Yes,No,0,23.0,master s
+20703,Edwardsville,IL,US,62025,Master's,unknown,2000-01-01,3,11.0,Unknown,No,0,-1.0,master s
+21727,Lacon,IL,US,61540,Bachelor's,business,1999-01-01,6,15.0,No,Yes,100,21.0,bachelor s
+24751,River Forest,IL,US,60305,Bachelor's,criminal justice,2004-08-01,6,5.0,Unknown,No,0,111.0,bachelor s
+26741,Chicago Heights,IL,US,60411,Bachelor's,health administration,2012-05-01,4,10.0,Yes,No,0,63.0,bachelor s
+27754,Chicago,IL,US,60659,Associate's,science,2012-01-01,3,7.0,Yes,Yes,4,98.0,associate s
+27813,Grayslake,IL,US,60030,Unknown,various accounting computer programming spanich,1990-06-01,3,46.0,Yes,No,0,110.0,unknown
+29566,Chicago,IL,US,60620,Master's,urban studies,2000-01-01,4,23.0,No,Yes,5,117.0,master s
+31058,New Lenox,IL,US,60451,Unknown,business administration program,2009-09-01,4,10.0,Yes,No,0,80.0,unknown
+32423,Chicago,IL,US,60657,Unknown,unknown,2000-01-01,1,17.0,Yes,No,0,-1.0,unknown
+33994,Buffalo Grove,IL,US,60089,Unknown,interrogation,2012-04-01,5,20.0,Unknown,No,0,0.0,unknown
+37690,Belleville,IL,US,62220,High School,unknown,1975-09-01,2,17.0,No,Yes,10,-1.0,high school
+37891,Chicago,IL,US,60632,Unknown,unknown,2000-01-01,3,8.0,Unknown,No,0,-1.0,unknown
+38435,Plainfield,IL,US,60586,High School,not applicable,2007-01-01,2,3.0,No,Yes,10,0.0,high school
+40059,Arlington Heights,IL,US,60005,Bachelor's,music composition,2009-01-01,7,21.0,No,No,0,0.0,bachelor s
+41791,Oak Forest,IL,US,60452,High School,not applicable,1982-06-01,10,27.0,Yes,No,0,0.0,high school
+44505,Berwyn,IL,US,60402,Unknown,business administration,2000-01-01,6,16.0,Unknown,No,0,80.0,unknown
+48439,Chicago,IL,US,60616,Bachelor's,communications management,2000-01-01,2,8.0,Yes,No,0,124.0,bachelor s
+52512,Lawrenceville,IL,US,62439,High School,anatomy biology and world studies,2000-01-01,0,11.0,No,No,0,117.0,high school
+53013,Crestwood,IL,US,60445,PhD,none,2001-05-01,2,10.0,Yes,No,0,0.0,phd
+59192,Joliet,IL,US,60436,High School,not applicable,2000-01-01,5,15.0,Yes,No,0,0.0,high school
+63254,Deerfield,IL,US,60015,Bachelor's,history general,1977-05-01,4,31.0,No,No,0,35.0,bachelor s
+64557,Chicago,IL,US,60617,High School,not applicable,1993-06-01,6,12.0,Yes,Yes,5,0.0,high school
+67240,Elburn,IL,US,60119,Unknown,unknown,2000-01-01,4,16.0,No,No,0,-1.0,unknown
+71131,Roselle,IL,US,60172,Bachelor's,sports management,2000-01-01,8,11.0,Yes,No,0,17.0,bachelor s
+71360,Homer Glen,IL,US,60491,Bachelor's,mechanical engineering,2012-05-01,5,6.0,Yes,No,0,148.0,bachelor s
+72056,Chicago,IL,US,60613,Bachelor's,medical billing kaplan continuing education,2000-01-01,4,20.0,No,No,0,131.0,bachelor s
+74454,Litchfield,IL,US,62056,Unknown,general studies,2009-05-01,2,3.0,No,No,0,117.0,unknown
+75250,Chicago,IL,US,60647,High School,not applicable,2007-06-01,2,4.0,No,No,0,0.0,high school
+75632,Hazel Crest,IL,US,60429,High School,not applicable,2010-05-01,5,2.0,No,No,0,0.0,high school
+76623,Elk Grove Village,IL,US,60007,High School,not applicable,1989-06-01,5,16.0,Unknown,No,0,0.0,high school
+78945,East Moline,IL,US,61244,Unknown,unknown,2000-01-01,4,12.0,Yes,No,0,-1.0,unknown
+79235,Crystal Lake,IL,US,60014,Bachelor's,microbiology,2000-01-01,3,6.0,Unknown,No,0,0.0,bachelor s
+79717,Alton,IL,US,62002,High School,not applicable,2009-05-01,2,3.0,No,No,0,0.0,high school
+84604,Downers Grove,IL,US,60516,Associate's,unknown,2000-01-01,4,13.0,Yes,No,0,-1.0,associate s
+85000,South Holland,IL,US,60473,Unknown,unknown,2000-01-01,4,24.0,Yes,No,0,-1.0,unknown
+91966,Bradley,IL,US,60915,High School,not applicable,2000-01-01,4,10.0,Yes,No,0,0.0,high school
+92020,Lake Forest,IL,US,60045,Bachelor's,paralegal studies,2010-12-01,3,7.0,Yes,No,0,117.0,bachelor s
+92299,Chicago,IL,US,60614,Bachelor's,business management,2009-12-01,4,6.0,No,No,0,21.0,bachelor s
+95536,Cicero,IL,US,60804,Unknown,unknown,2000-01-01,5,22.0,No,No,0,-1.0,unknown
+99661,Lansing,IL,US,60438,High School,unknown,1986-06-01,3,10.0,No,No,0,-1.0,high school
+102003,Glenview,IL,US,60026,Master's,advertising,2000-01-01,6,5.0,Unknown,No,0,81.0,master s
+102996,Waukegan,IL,US,60085,Bachelor's,medical assistant,2011-01-01,2,4.0,No,No,0,30.0,bachelor s
+103627,Darien,IL,US,60561,Unknown,unknown,2012-04-01,6,20.0,Yes,No,0,-1.0,unknown
+104210,Morris,IL,US,60450,Bachelor's,physical education,2009-01-01,8,14.0,Yes,Yes,5,131.0,bachelor s
+106344,Chicago,IL,US,60633,High School,not applicable,1982-01-01,3,30.0,Unknown,No,0,0.0,high school
+106385,Alden,IL,US,60001,Bachelor's,electronics and communication,2009-05-01,7,1.0,Yes,No,0,194.0,bachelor s
+107829,Glenview,IL,US,60025,Bachelor's,automotive management and service,1984-12-01,1,27.0,Unknown,No,0,116.0,bachelor s
+110704,Spring Grove,IL,US,60081,Bachelor's,mechanical engineering technology,1991-01-01,6,16.0,Yes,Yes,6,148.0,bachelor s
+111372,Chicago,IL,US,60622,Bachelor's,finance,2003-01-01,10,9.0,Yes,No,0,79.0,bachelor s
+112091,Bolingbrook,IL,US,60440,Unknown,unknown,2000-01-01,0,11.0,No,Yes,3,-1.0,unknown
+112143,Elgin,IL,US,60124,High School,not applicable,2000-01-01,4,24.0,No,No,0,0.0,high school
+112575,Melrose Park,IL,US,60160,Unknown,paralegal studies,2011-01-01,3,7.0,Yes,No,0,117.0,unknown
+112963,Chicago,IL,US,60652,PhD,organizational leadership,2012-04-01,3,13.0,Yes,No,0,76.0,phd
+115382,Island Lake,IL,US,60042,High School,general studies,1981-06-01,7,19.0,Yes,Yes,10,117.0,high school
+115398,Chicago,IL,US,60657,Unknown,unknown,2000-01-01,5,9.0,Yes,Yes,4,-1.0,unknown
+115818,Rockford,IL,US,61107,Associate's,building construction technology,2012-03-01,3,15.0,Yes,No,0,114.0,associate s
+116822,Oak Park,IL,US,60302,Master's,mba in healthcare,1971-06-01,6,30.0,Yes,No,0,189.0,master s
+117001,Urbana,IL,US,61801,Master's,operations management and supervision,2002-01-01,10,15.0,Yes,Yes,8,34.0,master s
+120018,Chicago,IL,US,60640,Bachelor's,psychology,2000-01-01,4,8.0,Yes,No,0,173.0,bachelor s
+120895,Chicago,IL,US,60626,Unknown,unknown,2000-01-01,9,23.0,No,Yes,6,-1.0,unknown
+120929,Chicago,IL,US,60640,Bachelor's,economics management,1989-06-01,9,22.0,Yes,Yes,5,17.0,bachelor s
+122419,Orland Hills,IL,US,60487,Bachelor's,mathematics and computer science,1980-01-01,9,28.0,Yes,No,0,98.0,bachelor s
+124796,Oswego,IL,US,60543,Bachelor's,political science,2003-05-01,6,12.0,Yes,No,0,98.0,bachelor s
+126435,Naperville,IL,US,60565,Master's,cpa certification,1997-07-01,7,38.0,Yes,Yes,25,0.0,master s
+126506,Berwyn,IL,US,60402,Bachelor's,unknown,2000-01-01,5,13.0,Yes,No,0,-1.0,bachelor s
+127535,Chicago,IL,US,60617,Unknown,general studies,1995-06-01,7,11.0,No,No,0,117.0,unknown
+128371,Chicago,IL,US,60646,Associate's,travel airlines computer science,2000-01-01,6,23.0,Yes,No,0,98.0,associate s
+129590,Montgomery,IL,US,60538,Unknown,pursuing associate degree in business adminstration,2012-12-01,2,13.0,Yes,No,0,21.0,unknown
+130701,Chicago,IL,US,60620,Associate's,business,2007-03-01,3,21.0,Yes,No,0,21.0,associate s
+130968,Shorewood,IL,US,60404,Unknown,unknown,2000-01-01,5,26.0,No,Yes,200,-1.0,unknown
+131488,Forest Park,IL,US,60130,Bachelor's,accounting,1983-05-01,4,13.0,Unknown,No,0,44.0,bachelor s
+131733,Rockford,IL,US,61102,Unknown,electronics and avionics,2000-01-01,3,14.0,Yes,Yes,4,194.0,unknown
+132309,Joliet,IL,US,60435,High School,social studies,2000-07-01,10,8.0,Yes,Yes,20,117.0,high school
+132861,Streamwood,IL,US,60107,Associate's,computer engineering and business management,2000-01-01,8,14.0,Yes,No,0,110.0,associate s
+134149,Chicago,IL,US,60639,Unknown,unknown,2000-01-01,0,11.0,Yes,No,0,-1.0,unknown
+135084,Westmont,IL,US,60559,Bachelor's,history,2007-05-01,10,9.0,Yes,Yes,15,0.0,bachelor s
+135456,Belleville,IL,US,62221,Bachelor's,computer science,1983-05-01,1,22.0,Unknown,No,0,98.0,bachelor s
+135679,Coal City,IL,US,60416,Associate's,interior design,2007-05-01,3,18.0,Yes,No,0,81.0,associate s
+136594,Chicago,IL,US,60620,Unknown,unknown,2000-01-01,5,23.0,No,No,0,-1.0,unknown
+136965,Alsip,IL,US,60803,Unknown,medical billing and coding,2009-04-01,5,9.0,No,No,0,126.0,unknown
+137515,Saint Charles,IL,US,60174,Associate's,math science,1984-05-01,9,21.0,No,Yes,6,98.0,associate s
+138391,Oak Lawn,IL,US,60453,Bachelor's,management and quantitative methods,2004-05-01,8,14.0,Yes,Yes,40,17.0,bachelor s
+139987,Chicago,IL,US,60620,Bachelor's,mathematics,2006-08-01,2,5.0,Yes,No,0,0.0,bachelor s
+140358,Sherrard,IL,US,61281,Bachelor's,science business management,2010-10-01,10,21.0,Yes,Yes,55,98.0,bachelor s
+142419,Plainfield,IL,US,60586,High School,not applicable,1992-06-01,5,14.0,Unknown,No,0,0.0,high school
+143783,McCullom Lake,IL,US,60050,Bachelor's,electrical engineering,2000-01-01,5,31.0,Yes,No,0,179.0,bachelor s
+144581,River Forest,IL,US,60305,Master's,public administration mpa,2010-04-01,0,11.0,Unknown,No,0,80.0,master s
+144982,Chicago,IL,US,60628,Master's,psychology,2013-06-01,4,5.0,No,Yes,2,173.0,master s
+145110,Elgin,IL,US,60123,Bachelor's,economics,1989-01-01,3,20.0,Yes,Yes,80,0.0,bachelor s
+145456,Elmhurst,IL,US,60126,Unknown,art,2000-01-01,6,17.0,Yes,No,0,0.0,unknown
+146958,Chicago,IL,US,60609,Bachelor's,visual communications,2003-09-01,3,7.0,Yes,Yes,3,124.0,bachelor s
+147511,Aurora,IL,US,60506,Master's,unknown,2000-01-01,4,16.0,No,No,0,-1.0,master s
+148710,Elk Grove Village,IL,US,60007,Bachelor's,business administration management,2004-12-01,3,5.0,Yes,No,0,80.0,bachelor s
+150842,Round Lake,IL,US,60073,Bachelor's,practical internet marketing,2011-03-01,10,18.0,Yes,Yes,50,23.0,bachelor s
+151512,Chicago,IL,US,60624,Unknown,unknown,2004-01-01,10,19.0,Yes,No,0,-1.0,unknown
+152324,Plano,IL,US,60545,Bachelor's,elementary education,1991-06-01,8,12.0,Unknown,Yes,25,131.0,bachelor s
+152889,East Peoria,IL,US,61611,Bachelor's,health administration health information systems,2009-02-01,6,9.0,Yes,No,0,63.0,bachelor s
+153314,Dupo,IL,US,62239,Bachelor's,accounting and business management,2014-01-01,9,6.0,No,Yes,15,44.0,bachelor s
+154188,Oak Lawn,IL,US,60453,Master's,accounting and financial management,2008-12-01,6,18.0,Unknown,No,0,69.0,master s
+154543,Waukegan,IL,US,60085,High School,not applicable,2000-01-01,4,15.0,No,No,0,0.0,high school
+156573,Aurora,IL,US,60506,High School,not applicable,1993-06-01,5,14.0,Yes,No,0,0.0,high school
+157274,Carol Stream,IL,US,60188,High School,not applicable,2000-01-01,3,18.0,No,No,0,0.0,high school
+157594,Rock Falls,IL,US,61071,Bachelor's,management of technology,2005-01-01,5,16.0,Yes,Yes,25,128.0,bachelor s
+158183,Lombard,IL,US,60148,Unknown,unknown,2000-01-01,3,10.0,No,No,0,-1.0,unknown
+159592,Woodridge,IL,US,60517,Bachelor's,unknown,1982-05-01,6,23.0,Unknown,No,0,-1.0,bachelor s
+159725,Oswego,IL,US,60543,Bachelor's,marketing,2004-05-01,4,7.0,Yes,No,0,23.0,bachelor s
+161346,Chicago,IL,US,60639,Unknown,fine arts,2000-01-01,5,8.0,Yes,No,0,111.0,unknown
+161610,O Fallon,IL,US,62269,Unknown,computer technology computer systems technology,2000-01-01,8,15.0,No,No,0,110.0,unknown
+161809,Streamwood,IL,US,60107,High School,unknown,2001-06-01,5,12.0,Unknown,No,0,-1.0,high school
+162576,Chicago,IL,US,60640,Bachelor's,networks and communications management,2003-10-01,6,10.0,No,No,0,124.0,bachelor s
+162683,Buffalo Grove,IL,US,60089,Associate's,marketing business,2014-01-01,6,10.0,No,Yes,50,21.0,associate s
+164058,Chicago,IL,US,60629,Unknown,unknown,2000-01-01,6,18.0,Yes,Yes,5,-1.0,unknown
+165885,Chicago,IL,US,60630,Vocational,mtc truck driver training,2008-10-01,9,13.0,No,Yes,20,136.0,vocational
+166210,Westmont,IL,US,60559,High School,education general,2003-01-01,5,10.0,Yes,No,0,131.0,high school
+167425,Freeburg,IL,US,62243,Unknown,unknown,2000-01-01,0,11.0,No,Yes,20,-1.0,unknown
+169236,Chicago,IL,US,60659,Master's,human resources development,2012-05-01,4,10.0,Unknown,No,0,49.0,master s
+169887,Chicago,IL,US,60634,Associate's,unknown,2008-01-01,5,12.0,No,No,0,-1.0,associate s
+170626,Homewood,IL,US,60430,Bachelor's,accounting,2000-05-01,4,10.0,No,No,0,44.0,bachelor s
+171435,Chicago,IL,US,60617,Bachelor's,english,2003-05-01,6,9.0,Yes,Yes,3,40.0,bachelor s
+171659,Elk Grove Village,IL,US,60007,High School,not applicable,2000-01-01,6,12.0,No,Yes,4,0.0,high school
+172500,Chicago,IL,US,60643,Bachelor's,business management,2011-12-01,4,15.0,Yes,Yes,4,21.0,bachelor s
+173927,Schaumburg,IL,US,60194,Bachelor's,business administration and management general,2000-01-01,10,9.0,No,No,0,80.0,bachelor s
+174918,Glen Carbon,IL,US,62034,Bachelor's,accounting,2008-12-01,6,10.0,No,Yes,6,44.0,bachelor s
+175219,Alsip,IL,US,60803,Unknown,unknown,1973-01-01,5,38.0,No,No,0,-1.0,unknown
+175752,Naperville,IL,US,60540,Master's,management,2000-01-01,8,37.0,Yes,No,0,17.0,master s
+176529,Chicago,IL,US,60651,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+176664,Chicago,IL,US,60617,High School,not applicable,1996-06-01,4,12.0,Yes,Yes,5,0.0,high school
+178952,Lynwood,IL,US,60411,Master's,human resources management and services,2009-10-01,5,8.0,Yes,No,0,49.0,master s
+179461,Chicago,IL,US,60654,Bachelor's,business management,2005-06-01,3,10.0,Unknown,No,0,21.0,bachelor s
+179734,Chicago,IL,US,60636,Unknown,unknown,2000-01-01,3,33.0,Yes,No,0,-1.0,unknown
+179759,Chicago,IL,US,60620,Bachelor's,marketing,2008-11-01,10,20.0,Yes,Yes,150,23.0,bachelor s
+180411,Chicago,IL,US,60608,Unknown,unknown,2000-01-01,6,12.0,Yes,No,0,-1.0,unknown
+181181,Skokie,IL,US,60077,Master's,educational administration and leadership,1999-12-01,8,36.0,No,Yes,30,80.0,master s
+182022,Chicago,IL,US,60626,Unknown,unknown,2000-01-01,0,11.0,No,Yes,100,-1.0,unknown
+182233,Glenwood,IL,US,60425,Bachelor's,operations management information,2004-05-01,4,8.0,Yes,No,0,134.0,bachelor s
+183063,Chicago,IL,US,60639,Associate's,it networking,2000-01-01,5,8.0,No,Yes,11,0.0,associate s
+183086,McHenry,IL,US,60050,Unknown,unknown,2000-01-01,6,27.0,Yes,No,0,-1.0,unknown
+184132,Naperville,IL,US,60565,Master's,finance,1990-01-01,9,23.0,Yes,No,0,79.0,master s
+184495,Oak Park,IL,US,60304,Master's,education,2005-11-01,10,7.0,Yes,No,0,131.0,master s
+185609,Chicago,IL,US,60653,Unknown,unknown,2000-01-01,5,9.0,No,No,0,-1.0,unknown
+185719,Frankfort,IL,US,60423,Bachelor's,computer science,1992-01-01,10,19.0,Yes,No,0,98.0,bachelor s
+186559,Rockford,IL,US,61109,Associate's,business management,1985-01-01,5,5.0,Yes,Yes,65,21.0,associate s
+186642,Chicago,IL,US,60647,Bachelor's,technical management,2001-08-01,0,11.0,No,Yes,25,74.0,bachelor s
+187731,Des Plaines,IL,US,60016,Master's,unknown,2012-04-01,3,12.0,Yes,No,0,-1.0,master s
+190270,Bolingbrook,IL,US,60490,Bachelor's,chemistry biochemistry,2000-01-01,6,24.0,Yes,No,0,0.0,bachelor s
+190607,Chicago,IL,US,60618,Vocational,unknown,2011-09-01,5,5.0,Yes,Yes,4,-1.0,vocational
+190751,Crest Hill,IL,US,60403,Bachelor's,finance,2000-01-01,5,12.0,Unknown,No,0,79.0,bachelor s
+190834,Coal Valley,IL,US,61240,Bachelor's,business information systems,2012-05-01,8,8.0,No,Yes,50,134.0,bachelor s
+191108,Chicago,IL,US,60624,High School,unknown,2002-06-01,4,4.0,No,No,0,-1.0,high school
+191310,Chicago,IL,US,60617,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+194244,Burbank,IL,US,60459,Vocational,general coarses,1986-01-01,4,11.0,No,No,0,35.0,vocational
+195445,Chicago,IL,US,60629,Bachelor's,unknown,2004-06-01,6,3.0,No,Yes,6,-1.0,bachelor s
+195551,Springfield,IL,US,62703,Bachelor's,theology,1996-01-01,7,15.0,Yes,Yes,40,0.0,bachelor s
+196210,Chicago,IL,US,60638,Bachelor's,ee,2002-12-01,5,13.0,Yes,Yes,60,0.0,bachelor s
+196416,Chicago Ridge,IL,US,60415,Bachelor's,business administration,1996-01-01,7,24.0,Yes,No,0,80.0,bachelor s
+196472,Chicago,IL,US,60620,Unknown,elementary education,1970-01-01,4,13.0,Yes,No,0,131.0,unknown
+196742,Chicago,IL,US,60628,Master's,healthcare management,2010-11-01,3,10.0,Yes,Yes,5,17.0,master s
+197184,Carol Stream,IL,US,60188,Master's,accounting,2000-01-01,6,12.0,Yes,No,0,44.0,master s
+198390,Roscoe,IL,US,61073,Master's,project management,2012-05-01,8,15.0,Yes,No,0,27.0,master s
+199187,Chicago,IL,US,60619,Bachelor's,accounting,2011-06-01,2,9.0,Yes,No,0,44.0,bachelor s
+199513,Roselle,IL,US,60172,Unknown,unknown,2000-01-01,5,25.0,No,No,0,-1.0,unknown
+200268,Chicago,IL,US,60619,Bachelor's,computer studies,2002-01-01,4,11.0,No,Yes,12,117.0,bachelor s
+200713,Moro,IL,US,62067,High School,unknown,1983-05-01,5,19.0,Unknown,No,0,-1.0,high school
+200892,Bolingbrook,IL,US,60440,Bachelor's,animation,2000-06-01,3,11.0,No,No,0,0.0,bachelor s
+201820,Oak Lawn,IL,US,60453,Bachelor's,management,2001-01-01,3,8.0,Yes,No,0,17.0,bachelor s
+203806,Chicago,IL,US,60618,PhD,unknown,2011-05-01,3,8.0,Yes,No,0,-1.0,phd
+203872,Oak Lawn,IL,US,60453,High School,not applicable,1988-01-01,10,22.0,Yes,Yes,15,0.0,high school
+204545,Schaumburg,IL,US,60193,High School,not applicable,2000-01-01,6,17.0,Yes,No,0,0.0,high school
+206239,Hoffman Estates,IL,US,60192,Unknown,unknown,2000-01-01,2,4.0,No,No,0,-1.0,unknown
+207666,Chicago,IL,US,60640,Bachelor's,public health,2011-05-01,7,4.0,Yes,No,0,63.0,bachelor s
+208151,Elmhurst,IL,US,60126,High School,high school,2010-02-01,3,2.0,No,No,0,167.0,high school
+208647,Wilmington,IL,US,60481,High School,not applicable,2002-05-01,5,10.0,No,No,0,0.0,high school
+209286,Chicago,IL,US,60644,Associate's,basic and advance automotive technician,1998-06-01,4,15.0,Yes,Yes,6,116.0,associate s
+209553,Lemont,IL,US,60439,Bachelor's,chemical engineering,2011-05-01,3,5.0,Unknown,No,0,170.0,bachelor s
+210903,Godfrey,IL,US,62035,Associate's,business,2011-12-01,1,16.0,No,Yes,2,21.0,associate s
+211995,Lombard,IL,US,60148,Bachelor's,communication,1990-06-01,6,21.0,Unknown,No,0,194.0,bachelor s
+212550,Plainfield,IL,US,60544,High School,education general,1999-06-01,4,5.0,No,Yes,35,131.0,high school
+213513,Chicago,IL,US,60615,Unknown,unknown,2000-01-01,4,12.0,Yes,No,0,-1.0,unknown
+213633,Oak Park,IL,US,60302,Unknown,unknown,2011-08-01,4,9.0,No,No,0,-1.0,unknown
+213757,Chicago,IL,US,60620,High School,unknown,2011-08-01,4,8.0,No,No,0,-1.0,high school
+214721,Lyons,IL,US,60534,Bachelor's,computer science,2000-01-01,5,13.0,No,Yes,12,98.0,bachelor s
+214736,Chicago,IL,US,60649,Associate's,unknown,2010-05-01,4,14.0,Yes,Yes,15,-1.0,associate s
+216357,Chicago,IL,US,60647,High School,not applicable,1986-06-01,4,20.0,Unknown,No,0,0.0,high school
+219138,Plainfield,IL,US,60586,High School,not applicable,2010-01-01,3,5.0,Yes,Yes,4,0.0,high school
+219656,Bolingbrook,IL,US,60440,Bachelor's,economics,2000-01-01,4,17.0,Yes,No,0,0.0,bachelor s
+220497,Joliet,IL,US,60435,Unknown,unknown,2001-01-01,5,12.0,No,No,0,-1.0,unknown
+221074,Palos Heights,IL,US,60463,Master's,homeland security,2013-10-01,5,12.0,Unknown,No,0,38.0,master s
+221657,Elgin,IL,US,60123,Associate's,emergency medical,2000-08-01,3,14.0,Yes,Yes,20,30.0,associate s
+222150,Skokie,IL,US,60077,Bachelor's,organizational management,1999-08-01,5,8.0,No,Yes,2,17.0,bachelor s
+223140,Chicago,IL,US,60615,Associate's,business administration,2011-04-01,5,15.0,Yes,No,0,80.0,associate s
+227501,Chicago,IL,US,60651,High School,advanced network design,2006-06-01,6,4.0,No,Yes,4,101.0,high school
+228176,Dolton,IL,US,60419,Unknown,general studies,2000-01-01,2,9.0,No,No,0,117.0,unknown
+228450,Wheeling,IL,US,60090,Bachelor's,accounting,2000-01-01,3,18.0,Unknown,No,0,44.0,bachelor s
+233079,Lindenhurst,IL,US,60046,Associate's,information systems application specialist,2005-01-01,6,37.0,Yes,No,0,41.0,associate s
+234383,Gurnee,IL,US,60031,High School,not applicable,1995-01-01,5,15.0,Yes,No,0,0.0,high school
+235014,Chicago,IL,US,60609,Unknown,business administration,1998-01-01,5,23.0,Yes,No,0,80.0,unknown
+235955,Belleville,IL,US,62220,Associate's,human services technology,2012-04-01,3,11.0,Yes,No,0,128.0,associate s
+236065,Chicago,IL,US,60636,High School,not applicable,2005-06-01,2,3.0,No,Yes,5,0.0,high school
+236721,Chicago,IL,US,60647,Master's,computational finance,2000-01-01,5,15.0,Yes,No,0,79.0,master s
+237131,Oak Park,IL,US,60302,High School,child care and data processing,1992-06-01,1,1.0,Unknown,Yes,5,162.0,high school
+238209,South Elgin,IL,US,60177,High School,not applicable,1994-05-01,5,14.0,No,No,0,0.0,high school
+238825,Chicago,IL,US,60610,Bachelor's,management,2011-01-01,5,6.0,No,No,0,17.0,bachelor s
+240458,Brookfield,IL,US,60513,High School,mathematics general,1971-01-01,7,39.0,No,Yes,30,35.0,high school
+240944,Chicago,IL,US,60628,Unknown,unknown,2000-01-01,4,24.0,Yes,No,0,-1.0,unknown
+243440,University Park,IL,US,60466,Master's,finance,2007-09-01,2,12.0,Unknown,No,0,79.0,master s
+247595,Elgin,IL,US,60123,High School,not applicable,1983-01-01,5,11.0,No,No,0,0.0,high school
+248639,Naperville,IL,US,60563,Bachelor's,accounting,1990-05-01,3,22.0,Yes,Yes,5,44.0,bachelor s
+250074,Benld,IL,US,62009,Associate's,management,2012-01-01,4,7.0,No,No,0,17.0,associate s
+250511,Matteson,IL,US,60443,High School,not applicable,2002-01-01,7,10.0,No,No,0,0.0,high school
+252510,Chicago,IL,US,60637,Unknown,unknown,1987-01-01,4,9.0,No,No,0,-1.0,unknown
+253605,Wauconda,IL,US,60084,Bachelor's,business administration,1995-01-01,7,22.0,Yes,Yes,6,80.0,bachelor s
+257453,Plainfield,IL,US,60544,Bachelor's,science education,2001-05-01,4,13.0,Unknown,No,0,131.0,bachelor s
+260132,McHenry,IL,US,60050,High School,unknown,2001-03-01,9,12.0,Yes,Yes,25,-1.0,high school
+260666,Chicago,IL,US,60632,Associate's,psychology,2011-01-01,3,4.0,No,No,0,173.0,associate s
+261265,Scott AFB,IL,US,62225,Unknown,unknown,1998-01-01,4,9.0,Unknown,No,0,-1.0,unknown
+261589,Riverdale,IL,US,60827,Master's,clinical psychology,1995-06-01,8,14.0,No,Yes,9,99.0,master s
+263366,Chicago,IL,US,60640,Bachelor's,communications,2006-06-01,6,11.0,Yes,Yes,5,124.0,bachelor s
+263701,Chicago,IL,US,60636,Associate's,computer and information sciences general,2002-05-01,3,14.0,Yes,Yes,20,134.0,associate s
+265758,Caseyville,IL,US,62232,Associate's,business management,2007-01-01,4,9.0,No,Yes,8,21.0,associate s
+266866,Broadview,IL,US,60155,High School,not applicable,2000-01-01,3,16.0,Yes,No,0,0.0,high school
+269054,Schaumburg,IL,US,60173,High School,not applicable,2002-01-01,4,9.0,No,No,0,0.0,high school
+270130,Waukegan,IL,US,60085,Bachelor's,management,2008-11-01,2,3.0,Yes,Yes,1,17.0,bachelor s
+270574,Homewood,IL,US,60430,Unknown,theatre,2000-01-01,6,22.0,Yes,Yes,150,0.0,unknown
+270692,Mount Prospect,IL,US,60056,Bachelor's,economics,2010-06-01,3,3.0,Yes,No,0,0.0,bachelor s
+271627,Granite City,IL,US,62040,High School,unknown,1992-05-01,2,8.0,Yes,Yes,12,0.0,high school
+272317,Chicago,IL,US,60605,Unknown,business,1991-06-01,6,21.0,Yes,No,0,21.0,unknown
+273832,Chicago,IL,US,60617,Bachelor's,chemistry,2002-01-01,5,14.0,Yes,No,0,0.0,bachelor s
+274881,Chicago,IL,US,60637,Bachelor's,visual communications,2011-08-01,5,18.0,No,Yes,3,124.0,bachelor s
+275410,Bolingbrook,IL,US,60490,Bachelor's,finance,2008-05-01,2,3.0,Unknown,No,0,79.0,bachelor s
+277006,Elburn,IL,US,60119,Unknown,unknown,2000-01-01,3,15.0,Yes,No,0,-1.0,unknown
+278717,Joliet,IL,US,60433,Associate's,nursing,2008-05-01,5,11.0,No,Yes,5,130.0,associate s
+279611,Chicago,IL,US,60641,Unknown,unknown,2000-01-01,5,14.0,Yes,No,0,-1.0,unknown
+282213,Chicago,IL,US,60617,Bachelor's,unknown,2011-09-01,3,8.0,Unknown,No,0,-1.0,bachelor s
+284463,Chicago,IL,US,60639,High School,not applicable,1986-06-01,6,23.0,No,No,0,0.0,high school
+287436,Morton,IL,US,61550,Associate's,unknown,1985-05-01,7,8.0,Yes,No,0,-1.0,associate s
+287636,Buffalo Grove,IL,US,60089,Bachelor's,psychology,2006-01-01,2,5.0,Unknown,No,0,173.0,bachelor s
+289374,Oak Lawn,IL,US,60453,Associate's,business administration,2012-05-01,4,7.0,Unknown,No,0,80.0,associate s
+296276,Chicago,IL,US,60624,Bachelor's,business administration management and operations other,1994-05-01,4,15.0,Yes,Yes,50,80.0,bachelor s
+296655,Springfield,IL,US,62707,Associate's,llcc,2000-01-01,6,11.0,No,Yes,50,0.0,associate s
+297121,Chicago,IL,US,60651,Unknown,unknown,2000-01-01,2,9.0,No,Yes,30,-1.0,unknown
+297125,Aurora,IL,US,60504,Unknown,unknown,2000-01-01,6,12.0,Yes,No,0,-1.0,unknown
+298213,River Grove,IL,US,60171,Bachelor's,business administration,2000-01-01,4,12.0,Unknown,No,0,80.0,bachelor s
+299652,Elmwood Park,IL,US,60707,High School,not applicable,2000-01-01,5,4.0,No,Yes,3,0.0,high school
+301168,Chicago,IL,US,60623,Unknown,ged,1988-05-01,1,6.0,No,No,0,0.0,unknown
+302062,Crystal Lake,IL,US,60012,Master's,management,1987-12-01,7,13.0,Unknown,No,0,17.0,master s
+302082,Chicago,IL,US,60630,High School,not applicable,2006-06-01,8,6.0,Yes,No,0,0.0,high school
+303518,Palos Heights,IL,US,60463,High School,bertrand russel los olivos,1987-01-01,3,21.0,Yes,Yes,180,0.0,high school
+303601,Palatine,IL,US,60074,Bachelor's,finance and management,2007-05-01,2,8.0,Unknown,No,0,79.0,bachelor s
+305620,Downers Grove,IL,US,60515,Associate's,unknown,2003-05-01,2,13.0,Unknown,No,0,-1.0,associate s
+306586,Skokie,IL,US,60076,Bachelor's,justice studies,2011-05-01,3,5.0,Yes,No,0,117.0,bachelor s
+307951,Chicago,IL,US,60660,Bachelor's,business administration,2012-05-01,4,7.0,Yes,No,0,80.0,bachelor s
+308929,Buffalo Grove,IL,US,60089,Associate's,unknown,2000-01-01,5,21.0,Unknown,No,0,-1.0,associate s
+309884,Naperville,IL,US,60540,Master's,unknown,2000-01-01,7,26.0,Unknown,No,0,-1.0,master s
+311256,Elgin,IL,US,60124,Unknown,business amp human resources,2004-01-01,6,13.0,Yes,Yes,4,49.0,unknown
+315474,Schaumburg,IL,US,60194,Unknown,unknown,2000-01-01,4,13.0,Yes,No,0,-1.0,unknown
+317563,Loves Park,IL,US,61111,Associate's,unknown,2000-01-01,3,6.0,Unknown,No,0,-1.0,associate s
+317710,Calumet City,IL,US,60409,High School,not applicable,2005-01-01,3,10.0,Yes,No,0,0.0,high school
+318836,Waukegan,IL,US,60087,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+318853,Romeoville,IL,US,60446,Unknown,medical office technology,2000-01-01,6,15.0,No,No,0,128.0,unknown
+318996,Carpentersville,IL,US,60110,Unknown,unknown,2000-01-01,6,15.0,Yes,No,0,-1.0,unknown
+321647,Maywood,IL,US,60153,High School,not applicable,2000-01-01,5,9.0,No,No,0,0.0,high school
+321765,Machesney Park,IL,US,61115,High School,not applicable,2004-06-01,6,11.0,Yes,No,0,0.0,high school
+324435,East Carondelet,IL,US,62240,High School,not applicable,1992-01-01,3,16.0,No,No,0,0.0,high school
+324919,Chicago,IL,US,60644,Bachelor's,unknown,2010-05-01,5,7.0,No,No,0,-1.0,bachelor s
+327184,Romeoville,IL,US,60446,Bachelor's,hospitality management,2012-02-01,2,0.0,No,Yes,6,17.0,bachelor s
+328322,Joliet,IL,US,60435,High School,not applicable,1994-01-01,4,15.0,No,No,0,0.0,high school
+331152,Loves Park,IL,US,61111,Bachelor's,accounting,2008-12-01,5,6.0,Yes,No,0,44.0,bachelor s
+331159,Wheeling,IL,US,60090,Bachelor's,business administration,2000-01-01,9,37.0,No,No,0,80.0,bachelor s
+332881,La Grange Park,IL,US,60526,Bachelor's,recreation park administration,2000-01-01,9,22.0,Yes,Yes,36,80.0,bachelor s
+333966,Sycamore,IL,US,60178,Bachelor's,political science,2000-01-01,4,11.0,Unknown,No,0,98.0,bachelor s
+334579,Arlington Heights,IL,US,60004,Master's,unknown,2000-01-01,6,19.0,Yes,No,0,-1.0,master s
+334884,Chicago,IL,US,60641,High School,general studies,1996-06-01,2,13.0,No,No,0,117.0,high school
+335220,Calumet City,IL,US,60409,High School,not applicable,2000-01-01,3,5.0,No,No,0,0.0,high school
+338600,Forest Park,IL,US,60130,Unknown,marketing and business management,1994-01-01,3,18.0,Unknown,No,0,21.0,unknown
+339472,Waterloo,IL,US,62298,High School,not applicable,1992-08-01,4,21.0,No,No,0,0.0,high school
+342213,Lake Forest,IL,US,60045,Bachelor's,politics,2012-05-01,4,3.0,Yes,No,0,0.0,bachelor s
+344481,Lisle,IL,US,60532,Bachelor's,marketing,2012-04-01,5,5.0,Yes,No,0,23.0,bachelor s
+345288,Chicago,IL,US,60614,Bachelor's,communications media,2011-07-01,6,4.0,Unknown,No,0,124.0,bachelor s
+345423,Grayslake,IL,US,60030,Master's,teaching,2009-08-01,9,9.0,Yes,No,0,112.0,master s
+346187,Rockford,IL,US,61109,Unknown,unknown,2003-12-01,4,10.0,No,No,0,-1.0,unknown
+347527,Bloomington,IL,US,61704,Master's,mechanical engineering,2000-01-01,3,5.0,Unknown,No,0,148.0,master s
+347572,Tinley Park,IL,US,60477,Unknown,unknown,2000-01-01,3,9.0,Unknown,No,0,-1.0,unknown
+347941,Chicago,IL,US,60606,Associate's,applied science accounting,2000-01-01,6,21.0,Unknown,No,0,98.0,associate s
+348048,Mount Prospect,IL,US,60056,Bachelor's,operations management information systems,2001-01-01,4,10.0,Yes,No,0,134.0,bachelor s
+349026,Chicago,IL,US,60629,Unknown,unknown,2000-01-01,3,24.0,Unknown,No,0,-1.0,unknown
+349191,Arlington Heights,IL,US,60005,Master's,counseling psychology,2012-05-01,3,4.0,Yes,No,0,173.0,master s
+349493,Mascoutah,IL,US,62258,Unknown,paralegal,2003-06-01,3,9.0,No,Yes,2,174.0,unknown
+351614,Rockford,IL,US,61107,Bachelor's,mechanical,2000-01-01,4,12.0,Yes,Yes,10,148.0,bachelor s
+352309,Chicago,IL,US,60638,Vocational,administrative computer software specialization,2003-08-01,2,9.0,No,No,0,110.0,vocational
+353182,Crystal Lake,IL,US,60014,High School,general education,2009-05-01,5,7.0,No,No,0,131.0,high school
+353648,Chicago,IL,US,60659,Master's,mba finance,2013-06-01,3,6.0,Yes,No,0,79.0,master s
+354768,Lynwood,IL,US,60411,Bachelor's,technical management,2012-02-01,4,21.0,Unknown,No,0,74.0,bachelor s
+354925,Chicago,IL,US,60638,Bachelor's,chemistry,2012-04-01,3,4.0,No,No,0,0.0,bachelor s
+355388,Rockford,IL,US,61104,High School,not applicable,2003-01-01,4,6.0,Yes,No,0,0.0,high school
+356582,Chicago,IL,US,60610,Master's,electrical computer engineering,2008-05-01,1,3.0,Yes,No,0,179.0,master s
+360160,Calumet City,IL,US,60409,Bachelor's,healthcare management,2000-01-01,3,7.0,Yes,No,0,17.0,bachelor s
+361744,Kankakee,IL,US,60901,Associate's,criminal justice,2011-01-01,0,11.0,No,No,0,111.0,associate s
+362047,Broadview,IL,US,60155,Unknown,unknown,2000-01-01,2,6.0,Unknown,No,0,-1.0,unknown
+362669,Chicago,IL,US,60617,Bachelor's,chemistry,2010-12-01,3,8.0,Yes,No,0,0.0,bachelor s
+366139,Naperville,IL,US,60540,High School,not applicable,2006-06-01,4,6.0,Yes,No,0,0.0,high school
+366636,Bolingbrook,IL,US,60490,High School,not applicable,1978-01-01,3,23.0,No,No,0,0.0,high school
+370167,Chicago,IL,US,60612,Unknown,profit accounting,1979-01-01,8,28.0,No,No,0,44.0,unknown
+371844,Chicago,IL,US,60622,Bachelor's,marketing,2005-01-01,2,6.0,Yes,No,0,23.0,bachelor s
+372305,Woodridge,IL,US,60517,Master's,finance and human,2009-01-01,2,1.0,No,No,0,79.0,master s
+373036,Cary,IL,US,60013,Bachelor's,career and technical education,2010-09-01,4,5.0,Yes,No,0,131.0,bachelor s
+376965,Chicago,IL,US,60622,High School,unknown,2008-06-01,5,5.0,Yes,Yes,2,-1.0,high school
+378334,Lake Zurich,IL,US,60047,Bachelor's,marketing,2012-05-01,4,4.0,Unknown,No,0,23.0,bachelor s
+378473,Naperville,IL,US,60565,Associate's,unknown,1992-01-01,8,19.0,Yes,No,0,-1.0,associate s
+385850,Mount Prospect,IL,US,60056,Associate's,hospitality management,2000-01-01,5,3.0,Yes,No,0,17.0,associate s
+386122,Chicago,IL,US,60646,Master's,unknown,2000-01-01,7,16.0,No,No,0,-1.0,master s
+389139,Braidwood,IL,US,60408,High School,not applicable,2000-01-01,5,11.0,No,No,0,0.0,high school
+389217,Matteson,IL,US,60443,Associate's,unknown,2000-01-01,5,9.0,No,Yes,10,-1.0,associate s
+389962,Chicago,IL,US,60612,PhD,magna,2000-01-01,2,8.0,Yes,No,0,0.0,phd
+390096,Evanston,IL,US,60202,Unknown,medical administrative,2010-12-01,4,10.0,Yes,No,0,30.0,unknown
+391761,Western Springs,IL,US,60558,Bachelor's,political science,2000-01-01,10,39.0,Yes,Yes,25,98.0,bachelor s
+394613,Chicago,IL,US,60641,High School,unknown,2000-01-01,2,11.0,Yes,No,0,-1.0,high school
+395271,Chicago,IL,US,60653,Bachelor's,education,1998-01-01,3,10.0,No,No,0,131.0,bachelor s
+395528,Naperville,IL,US,60564,High School,not applicable,2005-06-01,4,9.0,Yes,No,0,0.0,high school
+397337,Chicago,IL,US,60637,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+400401,Streamwood,IL,US,60107,High School,not applicable,1992-01-01,4,20.0,Yes,No,0,0.0,high school
+400544,Chicago,IL,US,60607,Bachelor's,history,2012-05-01,9,3.0,Unknown,No,0,0.0,bachelor s
+400576,Plainfield,IL,US,60586,Unknown,unknown,2000-01-01,1,4.0,Unknown,No,0,-1.0,unknown
+400609,McHenry,IL,US,60050,Master's,unknown,2000-01-01,6,17.0,No,No,0,-1.0,master s
+401046,Chicago,IL,US,60624,Bachelor's,unknown,2012-04-01,5,9.0,No,No,0,-1.0,bachelor s
+402196,Chicago,IL,US,60644,Bachelor's,unknown,1989-01-01,3,8.0,No,No,0,-1.0,bachelor s
+402604,Chicago,IL,US,60610,High School,not applicable,2011-01-01,4,3.0,No,No,0,0.0,high school
+402833,Chicago,IL,US,60625,High School,not applicable,1993-01-01,7,11.0,No,No,0,0.0,high school
+404835,Lisle,IL,US,60532,High School,unknown,1972-05-01,3,34.0,No,No,0,-1.0,high school
+405415,Tinley Park,IL,US,60477,Unknown,unknown,2000-01-01,3,37.0,No,No,0,-1.0,unknown
+406951,Westchester,IL,US,60154,Bachelor's,business administration,2000-01-01,3,12.0,No,No,0,80.0,bachelor s
+406973,Skokie,IL,US,60077,Bachelor's,unknown,2000-01-01,5,4.0,Yes,No,0,-1.0,bachelor s
+406993,Oak Forest,IL,US,60452,Bachelor's,management information systems,2012-03-01,5,5.0,Yes,No,0,134.0,bachelor s
+412946,Bellwood,IL,US,60104,Unknown,pest and chemical,2011-01-01,3,19.0,No,Yes,8,10.0,unknown
+414054,Chicago,IL,US,60601,Bachelor's,organizational leadership,2000-01-01,5,21.0,Unknown,No,0,76.0,bachelor s
+414169,Schaumburg,IL,US,60193,High School,not applicable,2003-09-01,3,5.0,Yes,No,0,0.0,high school
+414386,Champaign,IL,US,61821,High School,not applicable,2007-05-01,3,5.0,Yes,No,0,0.0,high school
+415325,Chicago,IL,US,60618,Unknown,unknown,2000-01-01,3,7.0,Yes,No,0,-1.0,unknown
+416114,Springfield,IL,US,62703,High School,na,2000-01-01,4,10.0,No,Yes,368,0.0,high school
+416695,Chicago,IL,US,60614,Master's,unknown,2012-03-01,6,12.0,Yes,Yes,50,-1.0,master s
+417078,Chicago,IL,US,60655,High School,not applicable,2008-05-01,3,6.0,Yes,No,0,0.0,high school
+419484,Markham,IL,US,60428,High School,not applicable,2000-01-01,2,20.0,Yes,No,0,0.0,high school
+420257,Peoria,IL,US,61605,Unknown,unknown,2000-01-01,9,6.0,Unknown,No,0,-1.0,unknown
+422160,South Holland,IL,US,60473,Unknown,unknown,2000-01-01,2,4.0,Unknown,No,0,-1.0,unknown
+427813,Saint Charles,IL,US,60175,Bachelor's,accountancy,2012-05-01,2,5.0,Yes,No,0,0.0,bachelor s
+428747,Waukegan,IL,US,60087,Master's,general business,1976-01-01,9,41.0,Yes,Yes,3,35.0,master s
+429324,Bolingbrook,IL,US,60440,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+432215,Groveland,IL,US,61535,Bachelor's,nursing registered nurse rn asn bsn msn,2010-01-01,2,22.0,No,No,0,39.0,bachelor s
+433092,Schaumburg,IL,US,60194,Unknown,general studies,2012-04-01,3,8.0,Yes,Yes,6,117.0,unknown
+434352,Chicago,IL,US,60616,Bachelor's,unknown,2011-05-01,4,11.0,Yes,No,0,-1.0,bachelor s
+439237,Lake in the Hills,IL,US,60156,Unknown,unknown,1999-01-01,3,12.0,No,No,0,-1.0,unknown
+440453,Ashland,IL,US,62612,High School,not applicable,1997-01-01,3,10.0,No,No,0,0.0,high school
+440980,Naperville,IL,US,60567,Bachelor's,accounting,2012-05-01,5,5.0,No,No,0,44.0,bachelor s
+442015,Plainfield,IL,US,60586,Bachelor's,e commerce,2010-04-01,8,9.0,No,No,0,0.0,bachelor s
+444236,Lovington,IL,US,61937,High School,not applicable,2006-01-01,4,2.0,Unknown,No,0,0.0,high school
+446172,Chicago,IL,US,60637,High School,not applicable,2000-01-01,4,5.0,No,No,0,0.0,high school
+446515,Chicago,IL,US,60644,Unknown,music studies,2011-06-01,2,4.0,Yes,No,0,117.0,unknown
+447722,Chicago,IL,US,60618,Bachelor's,networking,2000-01-01,5,5.0,No,Yes,2,0.0,bachelor s
+447929,Chicago,IL,US,60646,Unknown,computer science,2000-01-01,5,17.0,Yes,No,0,98.0,unknown
+448819,Chicago,IL,US,60651,Unknown,business finance management,2010-11-01,6,6.0,Yes,No,0,79.0,unknown
+449310,Joliet,IL,US,60435,High School,not applicable,2007-01-01,5,5.0,Yes,No,0,0.0,high school
+450073,Elwood,IL,US,60421,Bachelor's,mathematics general,2014-05-01,2,2.0,No,No,0,35.0,bachelor s
+452754,Harvey,IL,US,60426,High School,not applicable,1980-06-01,2,9.0,No,No,0,0.0,high school
+454900,Lombard,IL,US,60148,Bachelor's,spanish,2012-05-01,6,7.0,Yes,No,0,0.0,bachelor s
+456792,Chicago Heights,IL,US,60411,Associate's,unknown,2000-01-01,4,22.0,Unknown,No,0,-1.0,associate s
+457105,Springfield,IL,US,62707,Bachelor's,arts humanities,2008-12-01,6,8.0,Unknown,No,0,111.0,bachelor s
+464627,Peoria,IL,US,61614,High School,not applicable,2000-01-01,4,37.0,Yes,No,0,0.0,high school
+465505,Tinley Park,IL,US,60477,Bachelor's,chemical engineering,2012-05-01,3,4.0,Yes,Yes,4,170.0,bachelor s
+465690,Oswego,IL,US,60543,High School,not applicable,1983-01-01,6,25.0,Unknown,No,0,0.0,high school
+466366,Normal,IL,US,61761,Associate's,cable tv engineering,2000-01-01,6,33.0,Yes,No,0,170.0,associate s
+466836,Highland,IL,US,62249,Bachelor's,marketing,2011-05-01,5,7.0,Yes,No,0,23.0,bachelor s
+468619,Elmwood Park,IL,US,60707,Bachelor's,mathematics,2011-12-01,2,3.0,No,No,0,0.0,bachelor s
+470891,Edwardsville,IL,US,62025,Master's,unknown,2000-01-01,4,3.0,No,No,0,-1.0,master s
+473100,East Saint Louis,IL,US,62203,Unknown,business administration,1990-01-01,6,25.0,Yes,No,0,80.0,unknown
+474338,Woodstock,IL,US,60098,Associate's,unknown,2007-05-01,3,3.0,No,No,0,-1.0,associate s
+474355,Palatine,IL,US,60067,Unknown,marketing psychology and paralegal,2000-01-01,4,21.0,Yes,Yes,10,23.0,unknown
+474922,Bartlett,IL,US,60103,Bachelor's,english and education,2005-01-01,9,9.0,No,No,0,131.0,bachelor s
+477483,Chicago,IL,US,60603,Bachelor's,unknown,2005-06-01,4,14.0,No,No,0,-1.0,bachelor s
+480337,Pocahontas,IL,US,62275,Bachelor's,sports and recreation management,2006-05-01,9,12.0,Unknown,No,0,17.0,bachelor s
+481416,Chicago,IL,US,60651,Unknown,business law,1998-01-01,3,10.0,Yes,No,0,21.0,unknown
+483016,Glendale Heights,IL,US,60139,Bachelor's,unknown,2012-05-01,2,7.0,Yes,No,0,-1.0,bachelor s
+483950,Crete,IL,US,60417,Bachelor's,general studies,2000-01-01,7,12.0,Yes,No,0,117.0,bachelor s
+484272,Riverdale,IL,US,60827,Bachelor's,electronic engineering,2006-06-01,4,14.0,Yes,No,0,170.0,bachelor s
+486557,Park Forest,IL,US,60466,Unknown,unknown,1972-05-01,1,15.0,No,No,0,-1.0,unknown
+487084,Elgin,IL,US,60120,Vocational,boiler operations hvac repairs controllers maintenance engineering,1996-05-01,5,34.0,No,Yes,10,170.0,vocational
+487086,Hampshire,IL,US,60140,Associate's,professional nursing,2000-05-01,4,15.0,Yes,No,0,143.0,associate s
+491141,Chicago,IL,US,60619,Unknown,music general,2000-01-01,2,5.0,Unknown,No,0,35.0,unknown
+493004,Chicago,IL,US,60622,Bachelor's,liberal arts,1986-01-01,3,16.0,Yes,No,0,111.0,bachelor s
+493897,Riverdale,IL,US,60827,High School,word processing,2002-06-01,4,7.0,No,Yes,6,162.0,high school
+494077,Park Forest,IL,US,60466,Associate's,information technology it support,2011-06-01,3,11.0,No,No,0,134.0,associate s
+495586,Barstow,IL,US,61236,Unknown,unknown,2001-05-01,3,9.0,Yes,No,0,-1.0,unknown
+496693,Harvard,IL,US,60033,High School,unknown,2009-06-01,4,3.0,Yes,No,0,-1.0,high school
+498085,Chicago,IL,US,60652,High School,not applicable,2000-01-01,3,12.0,Unknown,No,0,0.0,high school
+500649,Chicago,IL,US,60640,Unknown,management,2000-01-01,2,14.0,No,No,0,17.0,unknown
+501521,Calumet City,IL,US,60409,Bachelor's,unknown,2007-12-01,2,7.0,No,No,0,-1.0,bachelor s
+501568,Aurora,IL,US,60505,Unknown,unknown,2000-01-01,4,5.0,Yes,No,0,-1.0,unknown
+502212,Chicago,IL,US,60601,Bachelor's,word processing,1984-01-01,4,24.0,No,No,0,162.0,bachelor s
+503151,Chicago,IL,US,60616,Master's,biological science,2010-08-01,5,6.0,Yes,No,0,98.0,master s
+505333,Chicago,IL,US,60622,High School,not applicable,2000-01-01,2,4.0,No,No,0,0.0,high school
+506122,Chicago,IL,US,60616,Associate's,applied science accounting,2007-01-01,2,12.0,Yes,No,0,98.0,associate s
+506173,Chicago,IL,US,60617,Unknown,unknown,2000-01-01,1,6.0,No,No,0,-1.0,unknown
+506478,Evanston,IL,US,60202,Unknown,unknown,2000-01-01,6,7.0,Yes,No,0,-1.0,unknown
+507377,Chicago,IL,US,60706,Unknown,unknown,2000-01-01,6,16.0,Yes,No,0,-1.0,unknown
+507959,Crystal Lake,IL,US,60014,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+508764,Chicago,IL,US,60618,Unknown,unknown,2000-01-01,4,13.0,No,Yes,25,-1.0,unknown
+509905,Joliet,IL,US,60432,High School,not applicable,2000-01-01,2,9.0,Yes,No,0,0.0,high school
+509909,Crystal Lake,IL,US,60012,Bachelor's,communication studies,2000-01-01,8,17.0,Yes,Yes,15,194.0,bachelor s
+511463,Peoria,IL,US,61604,High School,not applicable,1992-01-01,4,13.0,Yes,No,0,0.0,high school
+512135,Chicago,IL,US,60628,High School,graphic communications,2004-06-01,4,8.0,Unknown,No,0,124.0,high school
+512509,Joliet,IL,US,60432,Unknown,unknown,2000-01-01,5,32.0,Yes,No,0,-1.0,unknown
+513299,Glenview,IL,US,60025,Bachelor's,computer science,1998-01-01,3,12.0,Unknown,No,0,98.0,bachelor s
+516755,Chicago,IL,US,60617,Associate's,liberal arts and sciences liberal studies,2011-05-01,4,4.0,Yes,No,0,111.0,associate s
+521482,Naperville,IL,US,60565,Master's,reading and literacy,2004-06-01,7,12.0,Yes,Yes,65,0.0,master s
+523451,Chicago,IL,US,60620,Unknown,computer science,2000-01-01,0,11.0,No,No,0,98.0,unknown
+524778,Chicago,IL,US,60644,Bachelor's,medical administrative assisting,2011-01-01,1,1.0,Yes,Yes,3,30.0,bachelor s
+526219,Schaumburg,IL,US,60194,High School,college university prep,2002-06-01,3,5.0,Yes,No,0,85.0,high school
+526760,Chicago Ridge,IL,US,60415,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+527846,Highland,IL,US,62249,High School,not applicable,1997-05-01,4,15.0,Yes,No,0,0.0,high school
+527859,Chicago,IL,US,60618,Bachelor's,marketing,2011-12-01,4,13.0,Yes,No,0,23.0,bachelor s
+528510,Chicago,IL,US,60649,Bachelor's,recent career history,2010-01-01,2,6.0,Yes,No,0,42.0,bachelor s
+532540,Elgin,IL,US,60123,Associate's,business data processing,2000-01-01,5,19.0,Yes,No,0,162.0,associate s
+533873,Crest Hill,IL,US,60403,Unknown,unknown,2000-01-01,4,17.0,No,No,0,-1.0,unknown
+534274,South Holland,IL,US,60473,Master's,business administration management and operations other,2012-04-01,5,38.0,No,No,0,80.0,master s
+536386,Chicago,IL,US,60609,Bachelor's,journalism and media studies,2013-01-01,3,1.0,No,Yes,4,117.0,bachelor s
+539008,Chicago,IL,US,60639,Bachelor's,liberal arts and sciences,2011-01-01,2,5.0,Unknown,No,0,111.0,bachelor s
+541265,Chicago,IL,US,60642,Unknown,radio television broadcasting,2011-05-01,5,12.0,Yes,Yes,6,0.0,unknown
+541600,Chicago,IL,US,60637,Bachelor's,business management administration,2014-05-01,3,11.0,No,Yes,2,80.0,bachelor s
+544035,Grayslake,IL,US,60030,Unknown,human services,2012-04-01,5,7.0,Yes,Yes,4,42.0,unknown
+544179,Chicago,IL,US,60615,Bachelor's,criminal justice law enforcement administration,2012-05-01,3,6.0,Yes,Yes,10,111.0,bachelor s
+545686,Chicago,IL,US,60619,Bachelor's,unknown,2006-05-01,3,5.0,No,No,0,-1.0,bachelor s
+546679,Orland Park,IL,US,60462,Unknown,medical clinical assistant,2012-05-01,4,4.0,No,No,0,99.0,unknown
+547565,Gardner,IL,US,60424,High School,not applicable,2009-01-01,1,0.0,Yes,No,0,0.0,high school
+549717,Seneca,IL,US,61360,Associate's,medical,2012-10-01,3,10.0,No,Yes,6,30.0,associate s
+550123,Marion,IL,US,62959,Bachelor's,psychology,2006-12-01,4,11.0,No,No,0,173.0,bachelor s
+550952,Belleville,IL,US,62223,Unknown,unknown,2000-01-01,3,32.0,Unknown,No,0,-1.0,unknown
+554963,Collinsville,IL,US,62234,Bachelor's,sociology,2010-01-01,10,14.0,Yes,No,0,0.0,bachelor s
+556378,Maywood,IL,US,60153,Master's,metallurgy lab air craft quality technician,2012-04-01,1,1.0,Unknown,No,0,137.0,master s
+556609,Rockford,IL,US,61114,Unknown,computer programming,2000-01-01,6,112.0,No,No,0,110.0,unknown
+559723,Chicago,IL,US,60657,Bachelor's,human resource management and sport management,2012-05-01,6,4.0,Yes,No,0,187.0,bachelor s
+562150,University Park,IL,US,60484,Bachelor's,sociology,2003-12-01,4,4.0,No,Yes,100,0.0,bachelor s
+562189,Orland Park,IL,US,60462,High School,not applicable,1991-01-01,4,16.0,No,No,0,0.0,high school
+563052,Chicago,IL,US,60630,Bachelor's,information and decision sciences and marketing,2000-01-01,6,13.0,Yes,No,0,134.0,bachelor s
+563274,Blue Island,IL,US,60406,Bachelor's,science geography,2003-01-01,4,7.0,Yes,No,0,98.0,bachelor s
+563584,Naperville,IL,US,60540,Bachelor's,organizational communication,2011-06-01,9,8.0,Yes,No,0,194.0,bachelor s
+564042,Columbia,IL,US,62236,Unknown,business and general studies,2000-01-01,6,23.0,No,No,0,117.0,unknown
+565455,Poplar Grove,IL,US,61065,Unknown,unknown,2000-01-01,7,25.0,Yes,No,0,-1.0,unknown
+566811,Plainfield,IL,US,60544,Bachelor's,electronic engineering technology,1990-01-01,8,33.0,Yes,No,0,128.0,bachelor s
+568226,Lansing,IL,US,60438,Bachelor's,information technology,2011-01-01,6,20.0,Yes,No,0,134.0,bachelor s
+569833,Litchfield,IL,US,62056,Bachelor's,animal science 2nd major psychology,2011-05-01,3,3.0,Unknown,No,0,98.0,bachelor s
+570247,Mount Prospect,IL,US,60056,Unknown,computer networking,2001-01-01,3,9.0,Yes,No,0,110.0,unknown
+571909,Chicago,IL,US,60620,Unknown,unknown,2000-01-01,1,0.0,Unknown,No,0,-1.0,unknown
+572110,Rockford,IL,US,61104,High School,hs diploma,2008-05-01,3,4.0,Yes,No,0,0.0,high school
+574750,Sauk Village,IL,US,60411,High School,not applicable,1988-06-01,8,10.0,No,No,0,0.0,high school
+576363,Chicago,IL,US,60626,Bachelor's,accounting,2000-01-01,4,13.0,Yes,No,0,44.0,bachelor s
+576494,Broadview,IL,US,60155,Unknown,unknown,2007-01-01,4,17.0,No,No,0,-1.0,unknown
+577555,Winnetka,IL,US,60093,Master's,unknown,1991-01-01,1,0.0,Yes,No,0,-1.0,master s
+579565,Dolton,IL,US,60419,High School,unknown,2005-10-01,4,11.0,Yes,Yes,25,-1.0,high school
+579573,Naperville,IL,US,60564,Bachelor's,engineering,1989-01-01,10,22.0,No,No,0,170.0,bachelor s
+580978,Schaumburg,IL,US,60193,Bachelor's,advertising design,2008-09-01,3,5.0,Unknown,No,0,81.0,bachelor s
+581925,Bolingbrook,IL,US,60440,High School,not applicable,2006-01-01,4,6.0,No,No,0,0.0,high school
+582564,Ridge Farm,IL,US,61870,Unknown,unknown,2000-01-01,2,9.0,No,No,0,-1.0,unknown
+584849,Chicago,IL,US,60607,Bachelor's,civil engineering,1994-12-01,3,18.0,Yes,No,0,170.0,bachelor s
+585749,O Fallon,IL,US,62269,High School,liberal arts,2014-05-01,2,7.0,No,Yes,70,111.0,high school
+588023,Jacksonville,IL,US,62650,Bachelor's,paralegal studies,2005-01-01,4,19.0,Yes,Yes,8,117.0,bachelor s
+588264,Algonquin,IL,US,60102,Associate's,unknown,2000-01-01,4,5.0,Yes,No,0,-1.0,associate s
+589384,Oak Park,IL,US,60304,Master's,international business marketing,2005-01-01,6,17.0,Yes,No,0,191.0,master s
+590301,Peoria,IL,US,61604,Unknown,unknown,2000-01-01,3,11.0,Yes,No,0,-1.0,unknown
+590382,Chicago,IL,US,60617,Bachelor's,business administration project management,2000-01-01,3,15.0,No,Yes,15,80.0,bachelor s
+593337,Rockton,IL,US,61072,High School,not applicable,2009-06-01,4,4.0,Yes,No,0,0.0,high school
+594423,Wheeling,IL,US,60090,Unknown,unknown,2000-01-01,6,10.0,No,No,0,-1.0,unknown
+594643,Alsip,IL,US,60803,Bachelor's,family and child studies,2011-05-01,4,8.0,No,No,0,117.0,bachelor s
+594830,Rockford,IL,US,61108,Bachelor's,communications,2010-01-01,5,6.0,Yes,No,0,124.0,bachelor s
+595442,Chicago,IL,US,60617,Bachelor's,unknown,2000-01-01,3,6.0,No,No,0,-1.0,bachelor s
+596042,Chicago,IL,US,60623,Bachelor's,nursing,2009-06-01,3,5.0,Yes,No,0,130.0,bachelor s
+596726,South Beloit,IL,US,61080,Unknown,industrial,2000-01-01,4,9.0,Yes,No,0,173.0,unknown
+596803,Chicago,IL,US,60634,Unknown,hospitality hotel and travel,2014-04-01,3,15.0,Yes,Yes,25,174.0,unknown
+597977,South Elgin,IL,US,60177,Master's,accounting and finance,2011-02-01,8,22.0,Yes,Yes,7,79.0,master s
+598139,Champaign,IL,US,61822,Bachelor's,business,2009-05-01,4,16.0,No,No,0,21.0,bachelor s
+599006,Berwyn,IL,US,60402,Unknown,unknown,2000-01-01,3,3.0,Yes,No,0,-1.0,unknown
+600183,Chicago,IL,US,60618,Bachelor's,finance,2010-05-01,6,6.0,Yes,No,0,79.0,bachelor s
+601277,Algonquin,IL,US,60102,High School,not applicable,2000-01-01,7,18.0,Yes,No,0,0.0,high school
+602078,Chicago,IL,US,60649,High School,not applicable,2000-01-01,4,6.0,No,No,0,0.0,high school
+603567,Hoffman Estates,IL,US,60169,Bachelor's,marketing,2000-01-01,9,4.0,Yes,No,0,23.0,bachelor s
+604244,Naperville,IL,US,60540,Master's,finance,2000-01-01,2,27.0,Yes,Yes,10,79.0,master s
+605576,Rockford,IL,US,61103,Master's,unknown,2011-01-01,3,15.0,Yes,No,0,-1.0,master s
+605716,Bloomington,IL,US,61704,Associate's,applied science maintenance technology,2012-05-01,3,11.0,No,No,0,98.0,associate s
+606154,Waukegan,IL,US,60085,Bachelor's,economics,2006-01-01,5,5.0,Yes,No,0,0.0,bachelor s
+607621,Lake Zurich,IL,US,60047,Bachelor's,food and beverage management,2009-05-01,3,5.0,Yes,No,0,193.0,bachelor s
+608113,Wauconda,IL,US,60084,Unknown,unknown,2000-01-01,2,12.0,Yes,Yes,15,-1.0,unknown
+609753,Park Forest,IL,US,60466,High School,unknown,2000-01-01,3,10.0,Yes,Yes,3,-1.0,high school
+612890,Chicago,IL,US,60621,Unknown,psychology,2005-06-01,4,7.0,No,Yes,22,173.0,unknown
+614898,Chicago,IL,US,60647,Bachelor's,mechanical engineering,2002-01-01,3,10.0,Yes,Yes,18,148.0,bachelor s
+616663,Joliet,IL,US,60431,Bachelor's,criminal justice,1991-05-01,4,18.0,Yes,No,0,111.0,bachelor s
+617998,Joliet,IL,US,60435,Associate's,business,1993-05-01,10,28.0,Unknown,No,0,21.0,associate s
+618648,Aroma Park,IL,US,60910,High School,unknown,2003-01-01,3,1.0,No,No,0,-1.0,high school
+619543,Evergreen Park,IL,US,60805,Bachelor's,accounting,2011-12-01,4,8.0,Unknown,No,0,44.0,bachelor s
+619767,Saint Charles,IL,US,60174,Associate's,computer science,2014-01-01,2,8.0,Yes,No,0,98.0,associate s
+620544,Chicago,IL,US,60612,Unknown,unknown,2000-01-01,5,15.0,No,No,0,-1.0,unknown
+623612,Chicago,IL,US,60620,Unknown,food service sanitation management,1995-01-01,8,25.0,No,No,0,193.0,unknown
+623765,Morris,IL,US,60450,High School,not applicable,2007-05-01,4,1.0,Yes,No,0,0.0,high school
+630205,Collinsville,IL,US,62234,Bachelor's,criminal justice,2008-08-01,1,6.0,Unknown,No,0,111.0,bachelor s
+632268,Cary,IL,US,60013,Associate's,unknown,2012-02-01,4,4.0,No,No,0,-1.0,associate s
+632463,Frankfort,IL,US,60423,High School,not applicable,2009-01-01,1,1.0,No,No,0,0.0,high school
+633547,Bloomington,IL,US,61704,Bachelor's,interior and environmental design,2012-05-01,3,6.0,No,No,0,81.0,bachelor s
+633868,Granite City,IL,US,62040,Bachelor's,information systems security o,2010-06-01,4,7.0,No,No,0,134.0,bachelor s
+633902,Belleville,IL,US,62221,Unknown,unknown,1994-01-01,9,23.0,Yes,No,0,-1.0,unknown
+635393,Oak Forest,IL,US,60452,High School,not applicable,1992-01-01,4,16.0,No,No,0,0.0,high school
+637628,Wood Dale,IL,US,60191,Bachelor's,electrical engineering technology,2000-01-01,3,23.0,Unknown,No,0,179.0,bachelor s
+638542,Springfield,IL,US,62704,Unknown,art design,2000-01-01,3,17.0,Yes,No,0,81.0,unknown
+638750,Chicago,IL,US,60629,Unknown,unknown,2012-05-01,3,7.0,No,No,0,-1.0,unknown
+639109,Summit Argo,IL,US,60501,Associate's,unknown,2000-01-01,5,7.0,Yes,No,0,-1.0,associate s
+639137,Chicago,IL,US,60632,Associate's,paralegal studies,2007-03-01,2,11.0,No,No,0,117.0,associate s
+639916,Brookfield,IL,US,60513,Master's,electrical engineering,2010-03-01,3,5.0,Yes,Yes,2,179.0,master s
+641244,Rantoul,IL,US,61866,Bachelor's,business administration,2006-02-01,5,22.0,No,Yes,15,80.0,bachelor s
+647570,Machesney Park,IL,US,61115,Associate's,nursing,2008-01-01,3,4.0,Yes,No,0,130.0,associate s
+647629,Lakemoor,IL,US,60051,Bachelor's,mechanical engineering,2011-12-01,4,4.0,Yes,Yes,50,148.0,bachelor s
+647846,Chicago,IL,US,60629,Unknown,unknown,2000-01-01,5,15.0,Yes,Yes,24,-1.0,unknown
+650506,Aurora,IL,US,60506,Unknown,unknown,2012-04-01,5,14.0,Yes,No,0,-1.0,unknown
+650649,O Fallon,IL,US,62269,Bachelor's,nursing,1987-01-01,4,17.0,Unknown,No,0,130.0,bachelor s
+651487,Elk Grove Village,IL,US,60007,Master's,information management sciences systems,1999-01-01,1,21.0,No,No,0,134.0,master s
+651580,Bloomington,IL,US,61704,Bachelor's,health administration,2011-01-01,5,13.0,Yes,No,0,63.0,bachelor s
+651920,Chicago,IL,US,60622,Unknown,interior design,2009-12-01,3,4.0,Yes,Yes,6,81.0,unknown
+652275,Arlington Heights,IL,US,60005,Unknown,unknown,2007-01-01,4,13.0,Yes,No,0,-1.0,unknown
+653945,Chicago,IL,US,60614,Associate's,unknown,2003-05-01,4,19.0,Unknown,No,0,-1.0,associate s
+654123,Chicago,IL,US,60629,High School,unknown,2003-06-01,4,7.0,No,Yes,40,-1.0,high school
+654983,Markham,IL,US,60428,Master's,unknown,2010-01-01,6,10.0,No,No,0,-1.0,master s
+656344,Glendale Heights,IL,US,60139,High School,not applicable,2008-05-01,4,6.0,Yes,No,0,0.0,high school
+656437,Bartlett,IL,US,60103,Unknown,business development,2000-01-01,7,12.0,No,Yes,20,58.0,unknown
+656521,Libertyville,IL,US,60048,Bachelor's,business,2009-12-01,9,6.0,Yes,No,0,21.0,bachelor s
+656836,Dolton,IL,US,60419,High School,education general,1991-06-01,10,16.0,Yes,Yes,12,131.0,high school
+657253,Harvey,IL,US,60426,Unknown,general studies,1988-06-01,4,12.0,No,No,0,117.0,unknown
+658081,Elmwood Park,IL,US,60707,Unknown,general welding,1988-06-01,6,19.0,No,No,0,35.0,unknown
+659537,Lisle,IL,US,60532,High School,general,2004-06-01,5,7.0,Yes,Yes,3,35.0,high school
+661411,East Saint Louis,IL,US,62205,Unknown,unknown,2000-01-01,4,5.0,No,No,0,-1.0,unknown
+663290,Aurora,IL,US,60505,Bachelor's,business administration and computer science,2005-01-01,4,18.0,Yes,Yes,300,80.0,bachelor s
+664575,Naperville,IL,US,60564,Bachelor's,business and human resources,2014-01-01,8,25.0,Yes,Yes,8,49.0,bachelor s
+666204,Chicago,IL,US,60651,High School,business,2003-06-01,2,5.0,No,No,0,21.0,high school
+666327,Schaumburg,IL,US,60193,Bachelor's,accounting,1996-08-01,4,15.0,Yes,Yes,2,44.0,bachelor s
+667237,Des Plaines,IL,US,60016,Master's,unknown,2003-05-01,4,15.0,No,Yes,5,-1.0,master s
+669226,Bourbonnais,IL,US,60914,High School,not applicable,2006-01-01,3,8.0,Yes,No,0,0.0,high school
+672974,Calumet City,IL,US,60409,Associate's,business administration,2000-01-01,9,14.0,Yes,No,0,80.0,associate s
+673446,Willow Springs,IL,US,60480,Master's,community and economic development,2012-12-01,4,6.0,Yes,No,0,58.0,master s
+675261,Oswego,IL,US,60543,Bachelor's,finance and business and commerce,2011-12-01,3,5.0,Yes,No,0,79.0,bachelor s
+675317,Chicago,IL,US,60620,High School,unknown,2008-01-01,3,3.0,No,No,0,-1.0,high school
+675626,Glenwood,IL,US,60425,Unknown,mechanical engineering program,1978-01-01,7,34.0,Yes,Yes,15,148.0,unknown
+675750,Aurora,IL,US,60503,Unknown,business administration,2000-01-01,8,12.0,Yes,Yes,5,80.0,unknown
+677001,Maywood,IL,US,60153,Unknown,business administration,2012-04-01,7,9.0,Yes,No,0,80.0,unknown
+677004,Champaign,IL,US,61821,Bachelor's,elementary education,2000-01-01,5,9.0,No,Yes,30,131.0,bachelor s
+677531,Chicago,IL,US,60644,Unknown,unknown,2000-01-01,6,13.0,Yes,No,0,-1.0,unknown
+677907,Oswego,IL,US,60543,Bachelor's,psychology,2012-05-01,4,5.0,Yes,No,0,173.0,bachelor s
+678566,Dolton,IL,US,60419,Associate's,secretarial,1999-05-01,4,13.0,Yes,Yes,200,0.0,associate s
+678848,Romeoville,IL,US,60446,Unknown,medical assistant,2005-01-01,3,5.0,No,No,0,30.0,unknown
+678922,Berwyn,IL,US,60402,Unknown,unknown,2000-01-01,3,12.0,Yes,No,0,-1.0,unknown
+680545,Chicago Heights,IL,US,60411,Unknown,automotive technology,2010-09-01,3,3.0,Yes,No,0,116.0,unknown
+683881,Frankfort,IL,US,60423,Associate's,system networking and lan wan management manager,2003-08-01,6,14.0,Unknown,Yes,8,17.0,associate s
+684118,Chicago,IL,US,60656,Bachelor's,business administration,2007-03-01,2,12.0,No,Yes,12,80.0,bachelor s
+684354,Plainfield,IL,US,60585,Unknown,unknown,2000-01-01,2,11.0,No,No,0,-1.0,unknown
+684489,Wheeling,IL,US,60090,Bachelor's,classical studies,2007-08-01,3,4.0,Yes,No,0,117.0,bachelor s
+684738,Chicago,IL,US,60655,Master's,clinical social work,2000-01-01,2,12.0,Yes,Yes,12,141.0,master s
+690073,Chicago,IL,US,60623,Unknown,medical,2008-10-01,3,5.0,Yes,Yes,7,30.0,unknown
+691996,Aurora,IL,US,60504,High School,business administration and management general,1999-01-01,4,10.0,No,No,0,80.0,high school
+692447,Chicago,IL,US,60620,High School,business administration,2005-06-01,3,5.0,Unknown,No,0,80.0,high school
+692734,Chicago,IL,US,60645,Bachelor's,nonprofit management,2011-01-01,6,12.0,Yes,No,0,17.0,bachelor s
+693181,Orland Park,IL,US,60462,Bachelor's,communication,2008-07-01,3,7.0,Yes,No,0,194.0,bachelor s
+694279,Bensenville,IL,US,60106,Unknown,this area through hands on training,1975-01-01,1,11.0,No,Yes,1,182.0,unknown
+694419,Chicago,IL,US,60653,High School,colege prep,1999-06-01,6,9.0,No,Yes,30,85.0,high school
+694601,New Lenox,IL,US,60451,High School,not applicable,2000-01-01,3,28.0,Yes,Yes,15,0.0,high school
+695723,Tinley Park,IL,US,60487,Bachelor's,health administration,2012-01-01,5,25.0,Yes,Yes,10,63.0,bachelor s
+695953,Saint Charles,IL,US,60174,Bachelor's,early childhood education,2010-01-01,10,13.0,No,No,0,131.0,bachelor s
+696436,Chicago,IL,US,60613,Master's,web development,2012-04-01,4,16.0,Yes,Yes,5,166.0,master s
+697743,Chicago,IL,US,60646,Bachelor's,merchandising management,2000-01-01,4,12.0,Yes,No,0,17.0,bachelor s
+699847,Chicago,IL,US,60629,Unknown,unknown,2000-01-01,1,26.0,Unknown,No,0,-1.0,unknown
+699974,Chicago,IL,US,60607,Bachelor's,communications,2005-01-01,5,5.0,Yes,Yes,10,124.0,bachelor s
+701219,Aurora,IL,US,605063,Master's,political science and social institutions,2008-08-01,6,11.0,Yes,No,0,98.0,master s
+701273,Atlanta,IL,US,61723,Bachelor's,political science,2011-05-01,1,4.0,No,Yes,40,98.0,bachelor s
+701378,Chebanse,IL,US,60922,Unknown,unknown,2000-01-01,5,24.0,Unknown,No,0,-1.0,unknown
+701525,Chicago,IL,US,60618,Bachelor's,business administration,2010-06-01,3,13.0,Yes,No,0,80.0,bachelor s
+702465,Frankfort,IL,US,60423,Unknown,unknown,1972-06-01,7,37.0,Unknown,No,0,-1.0,unknown
+703600,Saint Charles,IL,US,60174,Vocational,lean manufacturing cellular manufacturing job shop supervision,2001-06-01,4,32.0,Yes,Yes,40,129.0,vocational
+704759,Evanston,IL,US,60203,Unknown,unknown,1993-06-01,5,27.0,No,Yes,58,-1.0,unknown
+705484,Calumet City,IL,US,60409,Bachelor's,elementary education business administration,2012-05-01,5,9.0,Yes,Yes,4,131.0,bachelor s
+705548,Aurora,IL,US,60505,Associate's,business administration,2008-06-01,7,9.0,Unknown,No,0,80.0,associate s
+706141,Addison,IL,US,60101,Master's,materials science and engineering,2011-03-01,3,4.0,Unknown,No,0,98.0,master s
+706495,Chicago,IL,US,60654,PhD,unknown,2010-05-01,5,8.0,No,No,0,-1.0,phd
+706860,Brookfield,IL,US,60513,High School,not applicable,2000-01-01,6,36.0,Yes,No,0,0.0,high school
+710181,Indian Head Park,IL,US,60525,Bachelor's,marketing business administration,1992-01-01,7,20.0,No,No,0,80.0,bachelor s
+711923,Chicago,IL,US,60619,High School,not applicable,1992-01-01,4,14.0,Yes,No,0,0.0,high school
+712650,West Chicago,IL,US,60185,Bachelor's,business management,2000-01-01,4,13.0,No,No,0,21.0,bachelor s
+712652,Decatur,IL,US,62521,Bachelor's,marketing,2004-01-01,7,12.0,Unknown,No,0,23.0,bachelor s
+713116,Schaumburg,IL,US,60173,Bachelor's,public relations,2000-01-01,4,3.0,Yes,No,0,127.0,bachelor s
+714655,Chicago,IL,US,60613,Bachelor's,applied behavioral sciences,2000-01-01,5,20.0,No,No,0,0.0,bachelor s
+714704,Grayslake,IL,US,60030,Bachelor's,political science,2006-05-01,3,3.0,Yes,Yes,4,98.0,bachelor s
+715797,Blue Island,IL,US,60406,Unknown,management association of illinois,2000-01-01,1,8.0,No,Yes,65,17.0,unknown
+716486,West Dundee,IL,US,60118,High School,not applicable,2000-01-01,3,13.0,No,No,0,0.0,high school
+717351,Dolton,IL,US,60419,High School,not applicable,2010-05-01,4,7.0,Unknown,No,0,0.0,high school
+717644,Chicago,IL,US,60637,High School,not applicable,2000-01-01,1,12.0,Yes,No,0,0.0,high school
+718452,Downers Grove,IL,US,60516,High School,unknown,1975-05-01,3,7.0,Yes,No,0,-1.0,high school
+718616,Wadsworth,IL,US,60083,High School,general education,2003-01-01,6,5.0,No,Yes,4,131.0,high school
+719569,Centralia,IL,US,62801,Unknown,management,1992-01-01,6,13.0,Yes,Yes,15,17.0,unknown
+719838,Joliet,IL,US,60433,Associate's,business administration president,2010-03-01,10,17.0,Yes,No,0,80.0,associate s
+719867,Alsip,IL,US,60803,Bachelor's,human and educational services,2010-05-01,5,11.0,Yes,No,0,42.0,bachelor s
+720665,Lansing,IL,US,60438,Bachelor's,sociology,2000-01-01,4,17.0,No,No,0,0.0,bachelor s
+720863,Chicago,IL,US,60644,Unknown,highschool,2006-06-01,2,5.0,Yes,No,0,0.0,unknown
+721333,Chicago,IL,US,60628,Unknown,general,2005-01-01,6,7.0,Yes,No,0,35.0,unknown
+723859,Aurora,IL,US,60504,Bachelor's,elementary education,2006-12-01,10,6.0,Yes,No,0,131.0,bachelor s
+725200,Chicago,IL,US,60543,Bachelor's,marketing business management,2018-01-01,5,28.0,Yes,Yes,135,21.0,bachelor s
+725439,Park Forest,IL,US,60466,Vocational,automotive,1985-01-01,4,36.0,No,Yes,47,116.0,vocational
+727646,Elburn,IL,US,60119,Bachelor's,project management,2000-01-01,5,12.0,No,No,0,27.0,bachelor s
+727816,Geneva,IL,US,60134,Unknown,business management,2000-01-01,4,21.0,No,No,0,21.0,unknown
+729658,Shabbona,IL,US,60550,Bachelor's,anthropology,2010-01-01,7,10.0,Yes,No,0,0.0,bachelor s
+729810,Chicago,IL,US,60628,Master's,administration of justice and security,2011-12-01,9,8.0,Unknown,No,0,80.0,master s
+729901,Roselle,IL,US,60172,High School,general studies,2000-06-01,8,13.0,Yes,Yes,5,117.0,high school
+732386,Carpentersville,IL,US,60110,Bachelor's,aviation administration,2011-05-01,1,4.0,Yes,No,0,80.0,bachelor s
+735180,Chicago,IL,US,60629,High School,unknown,2005-06-01,3,5.0,No,No,0,-1.0,high school
+735589,Chicago,IL,US,60618,Associate's,data processing,2000-01-01,5,30.0,Yes,No,0,162.0,associate s
+739496,Sleepy Hollow,IL,US,60118,Unknown,medical billing coding,2012-06-01,4,22.0,Yes,No,0,126.0,unknown
+740156,Plainfield,IL,US,60586,High School,unknown,2010-06-01,4,2.0,No,No,0,-1.0,high school
+745050,Homer Glen,IL,US,60491,Bachelor's,biology and asian studies,2010-05-01,3,5.0,Yes,No,0,117.0,bachelor s
+747799,Chicago,IL,US,60625,Unknown,education,2000-01-01,4,8.0,No,No,0,131.0,unknown
+748172,Chicago,IL,US,60643,Associate's,computer science,2013-01-01,2,5.0,No,Yes,4,98.0,associate s
+749071,Elgin,IL,US,60123,Bachelor's,social work,2010-12-01,4,17.0,Unknown,No,0,141.0,bachelor s
+749559,Dwight,IL,US,60420,Bachelor's,merchandising,1995-01-01,5,14.0,Yes,No,0,17.0,bachelor s
+750550,Chicago,IL,US,60655,Bachelor's,business management,2000-01-01,2,7.0,Yes,No,0,21.0,bachelor s
+751779,Palatine,IL,US,60067,Associate's,paralegal studies,2007-05-01,4,17.0,No,No,0,117.0,associate s
+751846,Forsyth,IL,US,62535,Unknown,business administration,2000-01-01,7,52.0,Unknown,No,0,80.0,unknown
+753983,Aurora,IL,US,60506,Unknown,unknown,2000-01-01,4,4.0,No,Yes,8,-1.0,unknown
+756218,Chicago,IL,US,60612,High School,not applicable,2011-06-01,3,6.0,Yes,No,0,0.0,high school
+757438,Chicago,IL,US,60616,High School,not applicable,2008-01-01,1,3.0,No,No,0,0.0,high school
+758636,Bloomingdale,IL,US,60108,High School,not applicable,1991-06-01,5,14.0,Yes,No,0,0.0,high school
+760248,Aurora,IL,US,60506,High School,math,1989-06-01,5,14.0,No,No,0,0.0,high school
+760457,Joliet,IL,US,60435,Associate's,criminal justice,2000-01-01,8,12.0,Yes,No,0,111.0,associate s
+761592,Libertyville,IL,US,60048,Master's,business administration and management general,2014-06-01,5,17.0,Yes,Yes,32,80.0,master s
+763343,Chicago,IL,US,60651,High School,not applicable,2000-01-01,7,17.0,No,No,0,0.0,high school
+763389,Chicago,IL,US,60626,Bachelor's,business administration,2002-10-01,4,12.0,Yes,No,0,80.0,bachelor s
+765235,Chicago,IL,US,60637,Unknown,unknown,1995-06-01,3,13.0,Unknown,No,0,-1.0,unknown
+768067,Chicago,IL,US,60634,Unknown,unknown,2000-01-01,4,8.0,No,No,0,-1.0,unknown
+769132,Brookfield,IL,US,60513,Bachelor's,mechanical engineering,2009-05-01,4,5.0,Yes,No,0,148.0,bachelor s
+769281,Chicago,IL,US,60611,Bachelor's,additional areas of expertise,2002-05-01,4,10.0,No,No,0,0.0,bachelor s
+769530,Wood Dale,IL,US,60191,High School,not applicable,2004-01-01,2,3.0,No,No,0,0.0,high school
+771416,Decatur,IL,US,62522,High School,not applicable,1980-05-01,6,26.0,No,No,0,0.0,high school
+771508,Chicago,IL,US,60609,High School,unknown,2006-01-01,4,5.0,No,No,0,-1.0,high school
+772931,Belleville,IL,US,62223,Associate's,culinary arts,2010-12-01,10,8.0,No,Yes,6,111.0,associate s
+775851,Round Lake Beach,IL,US,60073,Associate's,criminal justice,2000-01-01,3,12.0,Yes,No,0,111.0,associate s
+776050,Chicago,IL,US,60621,Vocational,custodial maintenance,2008-04-01,5,17.0,No,Yes,6,37.0,vocational
+776382,Chicago,IL,US,60649,Unknown,nursing,2012-05-01,3,11.0,Yes,No,0,130.0,unknown
+777480,North Chicago,IL,US,60064,High School,unknown,1989-05-01,5,7.0,No,No,0,-1.0,high school
+778832,Chicago,IL,US,60643,Bachelor's,nursing,2012-04-01,4,7.0,Yes,No,0,130.0,bachelor s
+780425,Matteson,IL,US,60443,Bachelor's,management,2000-01-01,6,24.0,Unknown,No,0,17.0,bachelor s
+781133,Chicago,IL,US,60638,High School,not applicable,1984-01-01,10,22.0,Unknown,No,0,0.0,high school
+781821,Riverdale,IL,US,60827,Unknown,general,2000-01-01,5,10.0,No,Yes,200,35.0,unknown
+781898,Chicago,IL,US,60620,Associate's,public relations,2005-05-01,1,1.0,Yes,Yes,4,127.0,associate s
+782091,Granite City,IL,US,62040,Vocational,medical clinical assistant,2004-03-01,4,12.0,Yes,Yes,15,99.0,vocational
+782119,Dolton,IL,US,60419,Unknown,unknown,2000-01-01,7,16.0,No,No,0,-1.0,unknown
+782735,Carlock,IL,US,61725,Associate's,business,2012-06-01,3,3.0,No,Yes,5,21.0,associate s
+784207,Plainfield,IL,US,60544,High School,not applicable,2009-06-01,2,2.0,No,No,0,0.0,high school
+788080,Bedford Park,IL,US,60501,Associate's,medical billing certification,2011-12-01,2,4.0,No,No,0,126.0,associate s
+789214,Glendale Heights,IL,US,60139,Associate's,business,2012-01-01,3,7.0,No,No,0,21.0,associate s
+792360,Washington Park,IL,US,62204,High School,basic,2010-04-01,1,2.0,No,No,0,0.0,high school
+792809,Willow Springs,IL,US,60480,High School,general studies,1993-06-01,1,12.0,No,No,0,117.0,high school
+793117,Maple Park,IL,US,60151,Unknown,unknown,2000-01-01,8,31.0,No,No,0,-1.0,unknown
+794097,Chicago,IL,US,60616,Unknown,global economics and modern languages,2012-08-01,3,11.0,No,Yes,20,157.0,unknown
+798048,Naperville,IL,US,60563,Associate's,paralegal studies,2012-04-01,6,14.0,Yes,No,0,117.0,associate s
+799645,North Aurora,IL,US,60542,Unknown,accounting,2000-01-01,6,22.0,Yes,Yes,7,44.0,unknown
+802825,Chicago,IL,US,60610,High School,communication,1978-06-01,6,32.0,No,Yes,4,194.0,high school
+803212,Chicago,IL,US,60630,Unknown,unknown,2000-01-01,6,35.0,No,No,0,-1.0,unknown
+804778,Country Club Hills,IL,US,60478,Bachelor's,sociology,2007-12-01,5,12.0,Yes,No,0,0.0,bachelor s
+804934,Darien,IL,US,60561,Bachelor's,mass communications,1995-03-01,5,19.0,Yes,Yes,10,124.0,bachelor s
+805795,Bloomington,IL,US,61701,Associate's,nursing registered nurse rn asn bsn msn,2008-05-01,7,5.0,Unknown,No,0,39.0,associate s
+807018,Glencoe,IL,US,60022,PhD,bioengineering,2000-01-01,2,9.0,Yes,No,0,0.0,phd
+808991,Country Club Hills,IL,US,60478,High School,not applicable,2006-06-01,1,1.0,No,No,0,0.0,high school
+809026,Chicago,IL,US,60620,Vocational,transportation and materials moving other,2002-01-01,3,5.0,No,No,0,198.0,vocational
+812996,Fox Lake,IL,US,60020,Associate's,business management,2000-01-01,6,25.0,Yes,Yes,10,21.0,associate s
+813974,Joliet,IL,US,60431,Unknown,unknown,2002-05-01,3,7.0,Unknown,No,0,-1.0,unknown
+814304,Mount Carmel,IL,US,62863,Unknown,diesel equipment technology,2011-05-01,4,7.0,Yes,No,0,128.0,unknown
+816186,Chicago,IL,US,60639,Unknown,unknown,2000-01-01,2,11.0,No,No,0,-1.0,unknown
+816596,O Fallon,IL,US,62269,Unknown,unknown,2000-01-01,3,30.0,Yes,No,0,-1.0,unknown
+816625,Berwyn,IL,US,60402,Associate's,management,2000-01-01,7,23.0,No,Yes,25,17.0,associate s
+816886,Cahokia,IL,US,62206,High School,not applicable,2002-05-01,9,8.0,No,No,0,0.0,high school
+817406,Streamwood,IL,US,60107,Unknown,unknown,2000-01-01,2,17.0,Yes,No,0,-1.0,unknown
+818968,Lake in the Hills,IL,US,60156,Unknown,research,2000-01-01,7,17.0,No,Yes,6,112.0,unknown
+821060,Chicago,IL,US,60618,Associate's,unknown,2011-06-01,4,6.0,No,No,0,-1.0,associate s
+821323,Huntley,IL,US,60142,Unknown,unknown,2007-01-01,2,23.0,No,No,0,-1.0,unknown
+821526,Alsip,IL,US,60803,Unknown,unknown,2001-01-01,4,9.0,No,No,0,-1.0,unknown
+822187,Arlington Heights,IL,US,60004,Unknown,medical administration,2006-06-01,4,7.0,Yes,No,0,80.0,unknown
+823725,Chicago,IL,US,60629,Bachelor's,business administration,2000-06-01,1,11.0,No,No,0,80.0,bachelor s
+827069,Chicago Ridge,IL,US,60415,Associate's,unknown,1984-01-01,4,27.0,No,No,0,-1.0,associate s
+827257,Chicago,IL,US,60647,Bachelor's,finance,2012-12-01,2,6.0,Yes,No,0,79.0,bachelor s
+827323,Granite City,IL,US,62040,Unknown,entrepreneurial economics and management organizational leadership,2009-05-01,6,9.0,Yes,Yes,4,17.0,unknown
+829423,Berkeley,IL,US,60163,Unknown,unknown,2000-01-01,7,17.0,Yes,Yes,6,-1.0,unknown
+829429,Chicago,IL,US,60628,Associate's,arts,1999-05-01,5,10.0,No,Yes,12,111.0,associate s
+829605,Buffalo Grove,IL,US,60089,Master's,masters of traditional architecture and urbanism,2012-04-01,3,5.0,No,Yes,30,0.0,master s
+830072,Homewood,IL,US,60430,Master's,business administration accounting,2010-01-01,7,18.0,Yes,Yes,10,80.0,master s
+830560,Grayslake,IL,US,60030,Bachelor's,accounting,2001-01-01,3,11.0,Yes,No,0,44.0,bachelor s
+831012,Chicago,IL,US,60601,Unknown,unknown,2000-01-01,4,17.0,Yes,No,0,-1.0,unknown
+831862,Calumet Park,IL,US,60827,Master's,health science,2011-05-01,6,10.0,Yes,No,0,98.0,master s
+832131,Gurnee,IL,US,60031,Bachelor's,chemical engineering,2008-05-01,4,4.0,Yes,Yes,6,170.0,bachelor s
+832858,North Chicago,IL,US,60064,High School,not applicable,2011-05-01,3,2.0,No,No,0,0.0,high school
+833068,Alsip,IL,US,60803,Associate's,science,2010-08-01,6,11.0,Yes,Yes,25,98.0,associate s
+833771,Chicago,IL,US,60651,Master's,social work,2013-05-01,7,13.0,Yes,Yes,30,141.0,master s
+834308,Chicago,IL,US,60601,Bachelor's,business management robert morris,2008-01-01,4,14.0,No,No,0,21.0,bachelor s
+836082,Aurora,IL,US,60505,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+838981,Chicago,IL,US,60613,Master's,business administration,2004-01-01,5,7.0,Yes,No,0,80.0,master s
+840472,Springfield,IL,US,62702,Master's,business management,2013-01-01,4,13.0,Unknown,No,0,21.0,master s
+841864,Downers Grove,IL,US,60516,High School,not applicable,1997-05-01,8,13.0,Yes,Yes,8,0.0,high school
+842130,Plainfield,IL,US,60544,Bachelor's,supply chain operations and information systems management,2008-08-01,6,13.0,Unknown,No,0,181.0,bachelor s
+842134,Romeoville,IL,US,60446,High School,general education,1982-06-01,4,15.0,Yes,No,0,131.0,high school
+842225,Mokena,IL,US,60448,High School,not applicable,1998-05-01,4,8.0,No,Yes,26,0.0,high school
+844702,Harvey,IL,US,60426,Associate's,criminal justice,2011-10-01,4,8.0,Yes,No,0,111.0,associate s
+844834,Calumet City,IL,US,60409,Bachelor's,medical assistant,2005-01-01,2,10.0,No,No,0,30.0,bachelor s
+844908,Dekalb,IL,US,60115,Unknown,medical assistant,2010-08-01,4,3.0,Yes,No,0,30.0,unknown
+845124,Streamwood,IL,US,60107,Master's,horticulture,2000-01-01,3,11.0,No,No,0,0.0,master s
+845689,Tinley Park,IL,US,60477,Master's,project management,1990-01-01,10,35.0,Yes,No,0,27.0,master s
+847755,Chicago,IL,US,60643,Bachelor's,sociology and psychology,1995-04-01,3,17.0,Yes,No,0,173.0,bachelor s
+848363,Frankfort,IL,US,60423,Bachelor's,business administration and management general,2013-07-01,4,9.0,Unknown,No,0,80.0,bachelor s
+850849,Naperville,IL,US,60563,Master's,unknown,2009-05-01,1,1.0,No,No,0,-1.0,master s
+852032,Chicago,IL,US,60657,Bachelor's,sociology,2000-01-01,3,23.0,Yes,No,0,0.0,bachelor s
+856902,East Saint Louis,IL,US,62207,Unknown,certified medical assistant,2011-08-01,3,6.0,No,No,0,130.0,unknown
+857063,Winfield,IL,US,60190,Bachelor's,unknown,1995-01-01,4,11.0,Yes,Yes,50,-1.0,bachelor s
+857198,Chicago,IL,US,60632,Unknown,unknown,2000-01-01,0,11.0,No,Yes,4,-1.0,unknown
+859371,Shiloh,IL,US,62269,Master's,human services,2000-01-01,5,5.0,Yes,No,0,42.0,master s
+859616,Carol Stream,IL,US,60188,Associate's,business administration and management general,1976-06-01,5,7.0,No,No,0,80.0,associate s
+860785,Chicago,IL,US,60618,Unknown,unknown,2000-01-01,0,11.0,No,Yes,25,-1.0,unknown
+860838,Joliet,IL,US,60431,High School,not applicable,2000-01-01,5,32.0,Yes,No,0,0.0,high school
+861006,Elmhurst,IL,US,60126,Bachelor's,business administration,2012-02-01,3,4.0,Yes,No,0,80.0,bachelor s
+861263,Evanston,IL,US,60201,Master's,marketing,2000-01-01,2,32.0,Unknown,No,0,23.0,master s
+861982,Bolingbrook,IL,US,60440,High School,not applicable,2000-01-01,8,29.0,Yes,No,0,0.0,high school
+862885,Naperville,IL,US,60540,Bachelor's,human biology,1984-06-01,5,23.0,No,Yes,6,49.0,bachelor s
+863128,Carol Stream,IL,US,60188,High School,not applicable,2005-01-01,3,6.0,Unknown,No,0,0.0,high school
+863294,Hampshire,IL,US,60140,High School,ged,2008-06-01,5,11.0,Unknown,No,0,0.0,high school
+863547,Orland Park,IL,US,60467,Associate's,computer science,2000-01-01,7,18.0,Yes,No,0,98.0,associate s
+863715,Arlington Heights,IL,US,60004,Unknown,unknown,2000-01-01,1,1.0,Yes,No,0,-1.0,unknown
+866319,Brookfield,IL,US,60513,High School,general education,2001-01-01,4,14.0,Unknown,No,0,131.0,high school
+866908,Ingleside,IL,US,60041,Unknown,medical terminology,2000-01-01,4,9.0,Yes,No,0,30.0,unknown
+867398,Grayslake,IL,US,60030,Associate's,veterinary technology,2000-01-01,3,5.0,No,No,0,128.0,associate s
+867452,Aurora,IL,US,60502,Associate's,hvac,2005-05-01,0,11.0,No,Yes,10,186.0,associate s
+870058,Chicago,IL,US,60617,Unknown,unknown,2011-04-01,5,6.0,No,No,0,-1.0,unknown
+871011,Rolling Meadows,IL,US,60008,Unknown,unknown,2000-01-01,3,25.0,Yes,No,0,-1.0,unknown
+873563,Medinah,IL,US,60157,Master's,accounting and finacial management,2013-04-01,3,5.0,Yes,No,0,44.0,master s
+874604,Bolingbrook,IL,US,60440,High School,general studies,1985-05-01,6,12.0,Yes,Yes,15,117.0,high school
+878799,Chicago,IL,US,60647,Bachelor's,nursing,1990-08-01,6,23.0,No,Yes,4,130.0,bachelor s
+878923,Midlothian,IL,US,60445,Bachelor's,technical management business management,2008-03-01,10,23.0,Yes,No,0,17.0,bachelor s
+879050,Chicago,IL,US,60653,Bachelor's,computer information systems,2002-10-01,3,13.0,No,Yes,5,134.0,bachelor s
+879516,Blue Island,IL,US,60406,High School,not applicable,2000-01-01,2,19.0,No,No,0,0.0,high school
+882355,Lake Bluff,IL,US,60044,High School,not applicable,2008-05-01,9,7.0,Yes,Yes,5,0.0,high school
+883242,Aurora,IL,US,60502,Unknown,english language and literature general,2000-01-01,5,33.0,Yes,Yes,12,35.0,unknown
+886247,Berkeley,IL,US,60163,Bachelor's,healthcare administration,2011-08-01,4,12.0,Yes,No,0,80.0,bachelor s
+888745,Glen Ellyn,IL,US,60137,Unknown,unknown,2010-01-01,6,21.0,Unknown,No,0,-1.0,unknown
+888926,Waukegan,IL,US,60087,Unknown,unknown,2000-01-01,6,14.0,No,No,0,-1.0,unknown
+889103,Highland,IL,US,62249,Master's,curriculum and technology,2006-06-01,3,13.0,Yes,Yes,7,128.0,master s
+890455,Chicago,IL,US,60657,Master's,marketing finance entrepreneurship,2000-01-01,6,17.0,No,No,0,79.0,master s
+890478,Oak Lawn,IL,US,60453,Master's,human resources management and development,2000-01-01,5,14.0,Yes,Yes,10,49.0,master s
+891441,Chicago,IL,US,60623,High School,not applicable,2000-01-01,7,43.0,Yes,Yes,35,0.0,high school
+892150,Chicago,IL,US,60614,Bachelor's,human biology,2000-01-01,5,5.0,Yes,Yes,8,49.0,bachelor s
+892554,Wheaton,IL,US,60187,Bachelor's,human resources management,2010-01-01,3,8.0,Yes,No,0,49.0,bachelor s
+894094,Swansea,IL,US,62226,Unknown,unknown,2000-01-01,2,9.0,No,No,0,-1.0,unknown
+894951,Lockport,IL,US,60441,Unknown,unknown,2000-01-01,4,10.0,Yes,No,0,-1.0,unknown
+896195,Hanover Park,IL,US,60133,High School,not applicable,2006-04-01,6,12.0,Yes,Yes,5,0.0,high school
+896767,Harvey,IL,US,60426,Unknown,unknown,2000-01-01,5,6.0,No,No,0,-1.0,unknown
+898777,Mundelein,IL,US,60060,Unknown,architecture,1995-01-01,9,21.0,Unknown,No,0,0.0,unknown
+898879,Cary,IL,US,60013,Unknown,unknown,2000-01-01,4,5.0,Yes,No,0,-1.0,unknown
+900445,Chicago,IL,US,60647,Associate's,office administration,2000-01-01,2,12.0,Yes,Yes,20,80.0,associate s
+900937,Chicago,IL,US,60623,High School,ged,2009-09-01,6,9.0,Yes,No,0,0.0,high school
+900971,New Lenox,IL,US,60451,Unknown,unknown,2000-01-01,3,21.0,Yes,No,0,-1.0,unknown
+901680,Hoffman Estates,IL,US,60195,Bachelor's,accounting,2000-01-01,8,37.0,Yes,No,0,44.0,bachelor s
+902736,Chicago,IL,US,60619,Unknown,culinary arts,2009-03-01,5,4.0,No,No,0,111.0,unknown
+903970,Glendale Heights,IL,US,60139,Unknown,business management,1989-01-01,5,22.0,Unknown,No,0,21.0,unknown
+904881,Rockford,IL,US,61114,High School,not applicable,2004-01-01,3,13.0,No,Yes,3,0.0,high school
+906345,Edwardsville,IL,US,62025,High School,not applicable,2003-01-01,8,9.0,Unknown,No,0,0.0,high school
+907148,Elgin,IL,US,60123,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+907957,Chicago,IL,US,60641,Bachelor's,psychology,2008-05-01,3,8.0,Yes,No,0,173.0,bachelor s
+908844,Algonquin,IL,US,60102,PhD,unknown,2001-09-01,6,19.0,No,Yes,50,-1.0,phd
+909169,Madison,IL,US,62060,Bachelor's,criminal justice studies,2011-05-01,5,8.0,Yes,No,0,111.0,bachelor s
+911461,Lombard,IL,US,60148,Bachelor's,marketing,1985-01-01,4,19.0,No,No,0,23.0,bachelor s
+912013,Mundelein,IL,US,60060,Master's,science industrial education,2000-01-01,1,28.0,No,No,0,173.0,master s
+912093,Chicago,IL,US,60651,Vocational,barbering,2004-06-01,3,9.0,Yes,No,0,0.0,vocational
+912868,Markham,IL,US,60428,Unknown,business administration computer science,2007-01-01,4,4.0,Yes,Yes,7,80.0,unknown
+914704,Caseyville,IL,US,62232,Unknown,unknown,2000-01-01,3,11.0,No,No,0,-1.0,unknown
+916036,Montgomery,IL,US,60538,Bachelor's,management with concentration in human resources,2011-03-01,5,5.0,Unknown,No,0,49.0,bachelor s
+916344,Cicero,IL,US,60804,Vocational,automotive truck and industrial technology,2002-01-01,5,13.0,Unknown,No,0,173.0,vocational
+917951,Edwardsville,IL,US,62025,Bachelor's,architectural studies,2007-05-01,6,11.0,Unknown,No,0,117.0,bachelor s
+918683,Chicago,IL,US,60620,Bachelor's,psychology general,2005-07-01,7,10.0,Yes,No,0,35.0,bachelor s
+920458,Des Plaines,IL,US,60016,Master's,finance and information systems management,2010-12-01,10,8.0,No,No,0,134.0,master s
+920500,Chicago,IL,US,60613,Bachelor's,east asian international studies and spanish language,2011-05-01,8,5.0,Yes,No,0,191.0,bachelor s
+921317,Shorewood,IL,US,60404,Unknown,unknown,2000-01-01,5,16.0,No,No,0,-1.0,unknown
+922182,Lombard,IL,US,60148,Associate's,hospitality administration management general and international studies,2014-06-01,1,1.0,Yes,No,0,191.0,associate s
+925076,Joliet,IL,US,60431,Unknown,accounting and business management,2000-01-01,1,19.0,Yes,Yes,35,44.0,unknown
+925271,Midlothian,IL,US,60445,Unknown,unknown,2000-01-01,9,11.0,Unknown,No,0,-1.0,unknown
+926116,Midlothian,IL,US,60445,Master's,law,1982-05-01,9,38.0,No,Yes,36,111.0,master s
+926699,Rockford,IL,US,61101,Unknown,unknown,2000-01-01,3,11.0,Unknown,No,0,-1.0,unknown
+926873,Chicago,IL,US,60608,Bachelor's,political science,2000-01-01,6,7.0,Yes,Yes,34,98.0,bachelor s
+927126,Lisle,IL,US,60532,High School,not applicable,2010-01-01,2,0.0,No,No,0,0.0,high school
+927879,Calumet City,IL,US,60409,Vocational,medical assistant,2008-04-01,4,5.0,Yes,No,0,30.0,vocational
+928423,Granite City,IL,US,62040,High School,not applicable,1990-04-01,2,10.0,No,Yes,45,0.0,high school
+928596,Chicago,IL,US,60707,Associate's,liberal arts,2000-01-01,7,31.0,Yes,No,0,111.0,associate s
+929559,Naperville,IL,US,60563,High School,not applicable,2004-01-01,1,4.0,Yes,Yes,3,0.0,high school
+930069,Chicago,IL,US,60634,Vocational,nurse nursing assistant aide and patient care assistant,2011-01-01,3,8.0,Yes,No,0,135.0,vocational
+930670,Cherry Valley,IL,US,61016,Bachelor's,political science,2000-01-01,5,30.0,Yes,No,0,98.0,bachelor s
+931991,Morton,IL,US,61550,Bachelor's,biology biological sciences general,2002-08-01,4,11.0,Yes,No,0,35.0,bachelor s
+932219,Oak Forest,IL,US,60452,Unknown,unknown,2000-01-01,9,19.0,Yes,Yes,15,-1.0,unknown
+932334,Smithton,IL,US,62285,Bachelor's,psychology,2011-05-01,1,2.0,No,No,0,173.0,bachelor s
+934713,Chicago,IL,US,60622,Bachelor's,public relations,2001-05-01,6,13.0,Yes,Yes,250,127.0,bachelor s
+935639,Lombard,IL,US,60148,Bachelor's,industrial education and technology,1994-01-01,6,19.0,Yes,Yes,450,173.0,bachelor s
+936116,Chicago,IL,US,60651,Unknown,unknown,2000-01-01,1,4.0,No,Yes,12,-1.0,unknown
+936737,Naperville,IL,US,60563,Bachelor's,business,2000-01-01,6,17.0,No,No,0,21.0,bachelor s
+938606,South Elgin,IL,US,60177,High School,business administration and management general,1999-06-01,3,12.0,No,Yes,25,80.0,high school
+941702,Geneva,IL,US,60134,Bachelor's,video game art and design,2006-05-01,6,11.0,Yes,No,0,81.0,bachelor s
+943101,Flossmoor,IL,US,60422,Bachelor's,electrical engineering,2008-01-01,6,12.0,No,No,0,179.0,bachelor s
+943334,Bellwood,IL,US,60104,High School,unknown,2006-06-01,2,4.0,Yes,No,0,-1.0,high school
+944613,Chicago,IL,US,60651,Associate's,computer,2007-01-01,6,12.0,Yes,No,0,110.0,associate s
+948039,Hanover Park,IL,US,60133,Master's,english and english literature,2000-01-01,4,12.0,Yes,No,0,40.0,master s
+948230,Roselle,IL,US,60172,High School,not applicable,2000-01-01,5,26.0,Yes,Yes,30,0.0,high school
+952537,Chicago,IL,US,60620,Master's,management and organizational leadership,2008-12-01,4,13.0,Yes,Yes,4,17.0,master s
+956817,Lynwood,IL,US,60411,Bachelor's,mobile media communication,2012-03-01,2,7.0,Yes,No,0,194.0,bachelor s
+957004,Chicago,IL,US,60626,Bachelor's,political science,2012-05-01,2,2.0,No,No,0,98.0,bachelor s
+958751,Chicago,IL,US,60621,Bachelor's,computer engineering technology,2007-06-01,4,8.0,No,No,0,110.0,bachelor s
+958792,Chicago,IL,US,60644,Bachelor's,health administration,2012-04-01,6,8.0,Unknown,No,0,63.0,bachelor s
+962316,Chicago,IL,US,60636,Bachelor's,communication studies speech communication and rhetoric,2014-05-01,6,3.0,Yes,No,0,194.0,bachelor s
+962559,South Elgin,IL,US,60177,High School,unknown,1995-12-01,3,5.0,Yes,No,0,-1.0,high school
+962826,Waterloo,IL,US,62298,High School,not applicable,1996-01-01,3,14.0,Yes,No,0,0.0,high school
+963347,Plainfield,IL,US,60586,Unknown,unknown,1984-01-01,4,26.0,Yes,No,0,-1.0,unknown
+964833,Chicago,IL,US,60642,Unknown,unknown,2000-01-01,10,11.0,Yes,Yes,12,-1.0,unknown
+965517,Country Club Hills,IL,US,60478,Bachelor's,social services,2007-01-01,7,14.0,Yes,No,0,141.0,bachelor s
+966519,Carbondale,IL,US,62901,Associate's,criminal justice,2003-05-01,1,10.0,No,Yes,15,111.0,associate s
+966763,Chicago,IL,US,60638,High School,not applicable,2007-06-01,4,9.0,No,No,0,0.0,high school
+967267,Evergreen Park,IL,US,60805,Bachelor's,international studies,2000-01-01,5,10.0,No,No,0,191.0,bachelor s
+968548,Chicago,IL,US,60645,Unknown,graphic design computer science,1992-01-01,5,15.0,No,No,0,98.0,unknown
+969399,West Chicago,IL,US,60185,High School,unknown,2009-06-01,4,5.0,Yes,No,0,-1.0,high school
+970975,Chicago,IL,US,60649,Bachelor's,pharmacy technician,2007-01-01,1,1.0,No,Yes,1,164.0,bachelor s
+971174,Chicago,IL,US,60655,Bachelor's,marketing and management,2011-05-01,5,7.0,Yes,No,0,23.0,bachelor s
+971462,Hoffman Estates,IL,US,60169,High School,not applicable,2011-06-01,1,0.0,No,No,0,0.0,high school
+973066,Chicago,IL,US,60601,Associate's,automotive technology,2009-10-01,5,9.0,Yes,No,0,116.0,associate s
+973188,Chicago,IL,US,60617,Bachelor's,computer science,2000-01-01,4,6.0,Yes,No,0,98.0,bachelor s
+974327,Naperville,IL,US,60565,Unknown,business administration and management general,2000-01-01,4,27.0,Unknown,No,0,80.0,unknown
+974634,Chicago,IL,US,60623,Bachelor's,social sciences general,1997-06-01,4,14.0,Yes,Yes,12,141.0,bachelor s
+977973,Chicago,IL,US,60617,High School,hospitality food service,2000-01-01,2,12.0,Unknown,No,0,193.0,high school
+980889,Chicago,IL,US,60637,High School,not applicable,1985-08-01,5,18.0,No,Yes,2,0.0,high school
+980890,Lockport,IL,US,60441,High School,not applicable,1996-06-01,9,16.0,Yes,Yes,20,0.0,high school
+982300,Chicago,IL,US,60643,Associate's,diesel and industrial technology,2011-06-01,2,14.0,No,No,0,173.0,associate s
+982504,Joliet,IL,US,60431,Associate's,business administration,2011-01-01,1,4.0,No,No,0,80.0,associate s
+982678,Beecher,IL,US,60401,Unknown,unknown,2000-01-01,5,17.0,Yes,No,0,-1.0,unknown
+983513,Bolingbrook,IL,US,60440,Unknown,unknown,2000-01-01,2,2.0,No,Yes,2,-1.0,unknown
+985044,Olympia Fields,IL,US,60461,Bachelor's,chemistry,2000-01-01,5,6.0,Yes,No,0,0.0,bachelor s
+989982,Oak Lawn,IL,US,60453,Bachelor's,accounting,1992-05-01,3,20.0,Unknown,No,0,44.0,bachelor s
+990347,Decatur,IL,US,62521,Unknown,psychology,2010-06-01,4,5.0,Yes,Yes,35,173.0,unknown
+991581,Chicago,IL,US,60649,High School,general studies,1998-06-01,0,11.0,No,Yes,25,117.0,high school
+991677,Homewood,IL,US,60430,High School,ged,1993-05-01,5,17.0,Yes,No,0,0.0,high school
+992354,Chicago,IL,US,60642,High School,not applicable,2000-01-01,4,32.0,No,No,0,0.0,high school
+992759,Wilmington,IL,US,60481,Bachelor's,accounting,1986-05-01,6,19.0,Unknown,No,0,44.0,bachelor s
+992928,Litchfield,IL,US,62056,Unknown,unknown,2000-01-01,3,6.0,Yes,No,0,-1.0,unknown
+996749,Collinsville,IL,US,62234,High School,not applicable,1994-01-01,4,9.0,Yes,No,0,0.0,high school
+997604,Chicago,IL,US,60628,Unknown,unknown,2003-01-01,4,7.0,No,No,0,-1.0,unknown
+1000037,Round Lake Beach,IL,US,60073,Unknown,marketing,2000-01-01,5,25.0,Yes,Yes,50,23.0,unknown
+1002165,Millstadt,IL,US,62260,Unknown,licensed practical nursing program,2010-03-01,2,5.0,Yes,No,0,76.0,unknown
+1002378,Chicago,IL,US,60618,Unknown,unknown,2000-01-01,3,20.0,Unknown,No,0,-1.0,unknown
+1006072,Schaumburg,IL,US,60173,Master's,finance,1980-06-01,3,13.0,No,Yes,160,79.0,master s
+1009454,Chicago,IL,US,60625,High School,g e d,2005-09-01,4,6.0,Unknown,No,0,0.0,high school
+1010163,Chicago,IL,US,60616,Master's,marketing communications,2011-01-01,4,5.0,Yes,No,0,124.0,master s
+1011686,Lemont,IL,US,60439,Associate's,medical field,1984-06-01,1,2.0,Unknown,No,0,96.0,associate s
+1012641,Naperville,IL,US,60563,Master's,computer science,2000-01-01,5,23.0,No,Yes,3,98.0,master s
+1014185,Naperville,IL,US,60564,Bachelor's,accounting,2000-01-01,3,14.0,Unknown,No,0,44.0,bachelor s
+1016031,Rolling Meadows,IL,US,60008,Unknown,associates in science,2013-06-01,9,8.0,No,No,0,98.0,unknown
+1018489,Winfield,IL,US,60190,Bachelor's,communication,2007-06-01,5,6.0,Yes,No,0,194.0,bachelor s
+1021198,New Lenox,IL,US,60451,Unknown,management marketing,1997-01-01,1,15.0,Yes,No,0,23.0,unknown
+1024673,McHenry,IL,US,60050,High School,not applicable,2006-01-01,6,6.0,Yes,No,0,0.0,high school
+1025551,Lombard,IL,US,60148,Associate's,electronics,1997-06-01,0,11.0,No,Yes,10,194.0,associate s
+1026011,Creve Coeur,IL,US,61610,High School,physical therapy,2014-01-01,5,8.0,No,No,0,131.0,high school
+1026057,Normal,IL,US,61761,Unknown,unknown,2000-01-01,7,20.0,Yes,Yes,5,-1.0,unknown
+1026683,Chicago,IL,US,60626,Unknown,internet research and concur pathway net,2000-01-01,5,21.0,Unknown,No,0,112.0,unknown
+1027165,Bradley,IL,US,60915,Associate's,technology education industrial arts,2007-06-01,4,22.0,No,Yes,8,173.0,associate s
+1027389,Addison,IL,US,60101,Unknown,business management and administration,2012-08-01,3,3.0,Yes,Yes,6,80.0,unknown
+1030812,Dolton,IL,US,60419,Associate's,arts criminal justice,2012-05-01,4,8.0,Unknown,No,0,111.0,associate s
+1030890,Berwyn,IL,US,60402,Bachelor's,accountancy,2000-01-01,8,27.0,Yes,No,0,0.0,bachelor s
+1035520,Chicago,IL,US,60637,Associate's,business administration,1984-01-01,3,14.0,No,No,0,80.0,associate s
+1036511,Hartford,IL,US,62048,Unknown,general studies,2000-01-01,4,7.0,Yes,Yes,20,117.0,unknown
+1039450,Bartlett,IL,US,60103,Unknown,unknown,2000-01-01,1,1.0,Yes,No,0,-1.0,unknown
+1039559,Chicago,IL,US,60607,Bachelor's,business,2005-01-01,3,6.0,Unknown,No,0,21.0,bachelor s
+1039915,Chicago,IL,US,60640,Master's,international business trade commerce,2007-04-01,5,8.0,Yes,Yes,5,191.0,master s
+1041284,Belleville,IL,US,62220,Unknown,unknown,2004-08-01,6,11.0,No,Yes,4,-1.0,unknown
+1042636,Hazel Crest,IL,US,60429,Unknown,unknown,2000-01-01,3,12.0,No,No,0,-1.0,unknown
+1044503,West Chicago,IL,US,60185,Bachelor's,marketing communication and psychology,1998-01-01,3,13.0,No,No,0,194.0,bachelor s
+1045318,Compton,IL,US,61318,Associate's,office systems,2000-05-01,8,16.0,No,No,0,83.0,associate s
+1045797,Calumet City,IL,US,60409,Associate's,secretarial,1980-04-01,10,29.0,No,Yes,3,0.0,associate s
+1046514,Des Plaines,IL,US,60018,High School,not applicable,2011-07-01,0,11.0,No,No,0,0.0,high school
+1046679,Wheaton,IL,US,60187,Bachelor's,anthropology,1995-04-01,10,15.0,Yes,No,0,0.0,bachelor s
+1047856,Springfield,IL,US,62703,Master's,human developmental counseling,2001-01-01,7,24.0,Yes,Yes,15,49.0,master s
+1047959,Belleville,IL,US,62221,Master's,educational leadership and administration general,2012-02-01,7,14.0,Yes,Yes,10,80.0,master s
+1048647,Chicago,IL,US,60640,Bachelor's,health care management,2000-01-01,5,8.0,Yes,No,0,63.0,bachelor s
+1048782,Chicago,IL,US,60629,Bachelor's,health care administration,2010-07-01,3,7.0,Yes,No,0,63.0,bachelor s
+1048849,Springfield,IL,US,62702,Vocational,g e d,1990-01-01,4,18.0,No,No,0,0.0,vocational
+1048944,Evanston,IL,US,60202,Associate's,printmaking,1997-11-01,5,14.0,Yes,Yes,10,0.0,associate s
+1049606,Chicago,IL,US,60620,Bachelor's,unknown,2011-10-01,6,14.0,Yes,No,0,-1.0,bachelor s
+1050017,Des Plaines,IL,US,60018,Bachelor's,psychology,1974-01-01,4,12.0,Yes,Yes,2,173.0,bachelor s
+1053104,Chicago,IL,US,60636,Associate's,elementary education,2012-04-01,3,5.0,No,No,0,131.0,associate s
+1053329,Naperville,IL,US,60540,Unknown,medical,2004-03-01,5,13.0,No,No,0,30.0,unknown
+1053779,Chicago,IL,US,60644,Unknown,certified pharmacy technician,2009-01-01,4,9.0,No,No,0,164.0,unknown
+1053940,Cary,IL,US,60013,Master's,communications and leadership program,2000-01-01,3,12.0,No,No,0,124.0,master s
+1054976,Chicago,IL,US,60639,High School,not applicable,2000-01-01,2,17.0,No,No,0,0.0,high school
+1058905,Chicago,IL,US,60661,Bachelor's,commerce,2000-01-01,10,8.0,No,No,0,0.0,bachelor s
+1059871,Orland Park,IL,US,60462,Bachelor's,criminal justice,2013-07-01,5,6.0,Yes,No,0,111.0,bachelor s
+1060983,Lynwood,IL,US,60411,Master's,business administration in accounting finance,2011-07-01,3,6.0,No,No,0,80.0,master s
+1064127,Dixon,IL,US,61021,Master's,medical coding specialist,2001-01-01,6,16.0,Yes,No,0,30.0,master s
+1065338,Berwyn,IL,US,60402,Unknown,unknown,2000-01-01,2,13.0,Yes,Yes,3,-1.0,unknown
+1068439,Naperville,IL,US,60564,Master's,marketing strategy,2011-12-01,3,7.0,Yes,No,0,23.0,master s
+1069516,Chicago,IL,US,60653,High School,unknown,1992-06-01,7,18.0,Yes,No,0,-1.0,high school
+1069958,Morris,IL,US,60450,Bachelor's,communications,2006-05-01,2,5.0,Yes,Yes,45,124.0,bachelor s
+1070586,Franklin Park,IL,US,60131,High School,unknown,2003-06-01,4,8.0,No,Yes,15,-1.0,high school
+1072209,Staunton,IL,US,62088,Associate's,unknown,2008-09-01,4,11.0,No,No,0,-1.0,associate s
+1072681,Chicago,IL,US,60617,Vocational,business administration,1986-08-01,1,7.0,No,Yes,3,80.0,vocational
+1074675,Mount Vernon,IL,US,62864,Bachelor's,business administration and management general,2010-05-01,5,23.0,Yes,Yes,3,80.0,bachelor s
+1075736,Chicago,IL,US,60640,Bachelor's,english language and literature general,2000-12-01,4,7.0,No,Yes,120,35.0,bachelor s
+1077583,Naperville,IL,US,60563,Unknown,advanced project management,2000-01-01,2,9.0,Yes,No,0,27.0,unknown
+1078242,Woodridge,IL,US,60517,Vocational,medical billing and coding,2000-01-01,3,19.0,Yes,No,0,126.0,vocational
+1078256,Chicago,IL,US,60626,Unknown,medical billing coding,2010-02-01,4,11.0,No,No,0,126.0,unknown
+1079853,Chicago,IL,US,60649,High School,not applicable,2007-06-01,1,0.0,No,No,0,0.0,high school
+1080524,Evanston,IL,US,60202,Unknown,business studies,2000-01-01,6,20.0,No,No,0,117.0,unknown
+1082522,Carpentersville,IL,US,60110,High School,not applicable,2000-01-01,2,14.0,Yes,Yes,25,0.0,high school
+1082937,Rockford,IL,US,61107,PhD,unknown,2011-05-01,3,8.0,Unknown,No,0,-1.0,phd
+1083094,Chicago,IL,US,60634,High School,not applicable,1999-01-01,4,11.0,Yes,Yes,6,0.0,high school
+1086319,Beach Park,IL,US,60099,Bachelor's,sociology,1994-01-01,6,16.0,No,Yes,20,0.0,bachelor s
+1086713,Chicago,IL,US,60626,Unknown,unknown,2000-01-01,2,8.0,Yes,Yes,2,-1.0,unknown
+1086835,Streamwood,IL,US,60107,Master's,project management marketing,2000-01-01,10,22.0,Yes,No,0,27.0,master s
+1088959,Danville,IL,US,61832,Bachelor's,physical education teaching,2004-05-01,6,14.0,Unknown,No,0,131.0,bachelor s
+1089692,Oswego,IL,US,60543,Bachelor's,education general,1971-05-01,2,13.0,Unknown,No,0,131.0,bachelor s
+1089879,Lake in the Hills,IL,US,60156,Unknown,unknown,2000-01-01,3,7.0,No,Yes,10,-1.0,unknown
+1090594,Chicago,IL,US,60651,Unknown,unknown,1999-12-01,7,10.0,No,No,0,-1.0,unknown
+1091003,Chicago,IL,US,60660,High School,required,1979-06-01,8,26.0,No,Yes,8,0.0,high school
+1091903,Orland Park,IL,US,60462,Bachelor's,internships and volunteer work,2010-08-01,6,8.0,Unknown,No,0,115.0,bachelor s
+1093097,Chicago,IL,US,60629,Unknown,unknown,2000-01-01,3,11.0,Yes,No,0,-1.0,unknown
+1093216,Hillside,IL,US,60162,Bachelor's,public relations and marketing communications,2006-05-01,3,7.0,Yes,No,0,127.0,bachelor s
+1093639,Cahokia,IL,US,62206,Bachelor's,medical assistant,2005-08-01,3,9.0,Yes,No,0,30.0,bachelor s
+1094576,River Grove,IL,US,60171,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+1094627,Warrenville,IL,US,60555,Unknown,cosmetology cosmetologist general,1995-12-01,4,13.0,Yes,Yes,18,35.0,unknown
+1094741,Chicago,IL,US,60617,Unknown,accounting,2000-01-01,3,18.0,Yes,No,0,44.0,unknown
+1094872,Evergreen Park,IL,US,60805,Bachelor's,health health care administration management,2013-05-01,1,4.0,Yes,No,0,63.0,bachelor s
+1095176,McHenry,IL,US,60051,Unknown,heating air conditioning,2011-09-01,6,14.0,Yes,Yes,4,0.0,unknown
+1095212,Chicago,IL,US,60643,Unknown,graphic,2009-07-01,4,10.0,Yes,Yes,2,86.0,unknown
+1096083,Romeoville,IL,US,60446,Bachelor's,business administration and management general,1995-03-01,7,17.0,Unknown,No,0,80.0,bachelor s
+1096499,Chicago,IL,US,60625,Bachelor's,manufacturing engineering technology,1994-01-01,6,14.0,Yes,No,0,129.0,bachelor s
+1096731,Aurora,IL,US,60504,High School,unknown,2004-01-01,6,9.0,No,No,0,-1.0,high school
+1096976,Chicago,IL,US,60619,Bachelor's,field of legal studies,2000-01-01,5,11.0,No,No,0,117.0,bachelor s
+1099165,Fairview Heights,IL,US,62208,Associate's,business administration,2000-05-01,3,9.0,Yes,Yes,10,80.0,associate s
+1099904,Sycamore,IL,US,60178,Unknown,unknown,2000-01-01,6,12.0,No,No,0,-1.0,unknown
+1099956,Chicago,IL,US,60632,Unknown,education,2000-01-01,0,11.0,No,Yes,4,131.0,unknown
+1100806,Evanston,IL,US,60201,Bachelor's,business administration,2000-01-01,6,17.0,Yes,No,0,80.0,bachelor s
+1103565,Oak Park,IL,US,60302,High School,not applicable,2005-05-01,3,7.0,No,No,0,0.0,high school
+1103566,Chicago,IL,US,60619,High School,not applicable,1999-01-01,4,13.0,Yes,No,0,0.0,high school
+1103738,Dolton,IL,US,60419,Master's,social work,2004-06-01,6,7.0,Yes,No,0,141.0,master s
+1106511,Des Plaines,IL,US,60016,High School,unknown,1990-06-01,7,8.0,No,No,0,-1.0,high school
+1107245,Roselle,IL,US,60172,PhD,communication strategies,2000-01-01,8,29.0,Yes,No,0,194.0,phd
+1107754,Chicago,IL,US,60620,Unknown,licensed insurance producer,2007-04-01,7,16.0,No,Yes,4,180.0,unknown
+1107978,Chicago,IL,US,60651,High School,not applicable,2002-01-01,3,9.0,Yes,No,0,0.0,high school
+1108470,Rolling Meadows,IL,US,60008,Unknown,aa,2000-01-01,5,25.0,No,Yes,20,0.0,unknown
+1109001,Plainfield,IL,US,60586,Bachelor's,business administration,2000-01-01,3,17.0,Yes,No,0,80.0,bachelor s
+1109169,Arlington Heights,IL,US,60004,Bachelor's,elementary education and teaching,1998-05-01,6,13.0,Yes,No,0,131.0,bachelor s
+1110628,Berwyn,IL,US,60402,Vocational,electrical maintenance,2001-10-01,2,10.0,Unknown,No,0,179.0,vocational
+1110833,Plano,IL,US,60545,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+1115128,Chicago,IL,US,60629,Bachelor's,audio production,2000-01-01,3,4.0,Yes,No,0,43.0,bachelor s
+1117470,Calumet City,IL,US,60409,High School,not applicable,1986-05-01,4,10.0,No,Yes,15,0.0,high school
+1118692,Naperville,IL,US,60563,Bachelor's,technical management,2011-10-01,4,8.0,Yes,No,0,74.0,bachelor s
+1118720,East Moline,IL,US,61244,Vocational,medical,2001-12-01,6,19.0,No,No,0,30.0,vocational
+1120037,Markham,IL,US,60428,High School,not applicable,2000-01-01,2,10.0,No,No,0,0.0,high school
+1120350,Bourbonnais,IL,US,60914,High School,general studies,1989-06-01,8,18.0,Unknown,Yes,20,117.0,high school
+1121029,Aurora,IL,US,60505,Unknown,fire science fire fighting,2010-12-01,6,7.0,Yes,No,0,98.0,unknown
+1121465,South Holland,IL,US,60473,Unknown,unknown,2012-04-01,6,31.0,Yes,No,0,-1.0,unknown
+1121643,Chicago,IL,US,60644,Unknown,culinary arts and related services other,2006-06-01,4,5.0,No,No,0,111.0,unknown
+1121950,West Chicago,IL,US,60185,High School,not applicable,2009-06-01,2,2.0,No,No,0,0.0,high school
+1122387,Coal Valley,IL,US,61240,Unknown,unknown,2000-01-01,5,14.0,Yes,Yes,15,-1.0,unknown
+1122931,Naperville,IL,US,60563,High School,not applicable,2002-01-01,5,11.0,Yes,Yes,50,0.0,high school
+1123795,Chicago,IL,US,60610,High School,education general,2003-05-01,4,3.0,Unknown,No,0,131.0,high school
+1124189,Des Plaines,IL,US,60018,Bachelor's,fine studio arts general,2009-01-01,3,6.0,Yes,No,0,111.0,bachelor s
+1124821,Chicago,IL,US,60637,High School,general business,1984-06-01,4,9.0,Yes,Yes,5,35.0,high school
+1127874,Villa Park,IL,US,60181,Bachelor's,sport management,2010-05-01,3,6.0,Yes,No,0,17.0,bachelor s
+1128446,Belvidere,IL,US,61008,Vocational,cnc certification,2012-05-01,5,7.0,Yes,Yes,3,139.0,vocational
+1129560,Manteno,IL,US,60950,Unknown,unknown,2000-01-01,4,13.0,Unknown,No,0,-1.0,unknown
+1129709,Hickory Hills,IL,US,60457,Associate's,unknown,2000-01-01,3,8.0,Yes,No,0,-1.0,associate s
+1133175,Romeoville,IL,US,60446,High School,ged,1987-11-01,10,26.0,No,No,0,0.0,high school
+1133602,North Aurora,IL,US,60542,Master's,public health,2000-01-01,4,13.0,Yes,No,0,63.0,master s
+1133646,Romeoville,IL,US,60446,Unknown,unknown,2000-01-01,4,19.0,Unknown,No,0,-1.0,unknown
+1136004,Lakemoor,IL,US,60051,High School,not applicable,1984-01-01,10,26.0,Unknown,No,0,0.0,high school
+1137256,Chicago,IL,US,60628,Unknown,unknown,2012-04-01,8,14.0,Yes,No,0,-1.0,unknown
+1138202,Bolingbrook,IL,US,60490,Master's,advertising,2010-05-01,5,3.0,Yes,Yes,10,81.0,master s
+1138850,Evergreen Park,IL,US,60805,Bachelor's,business administration and management general,2005-02-01,2,21.0,Yes,No,0,80.0,bachelor s
+1139047,Chicago Ridge,IL,US,60415,Master's,unknown,2000-01-01,1,16.0,Unknown,No,0,-1.0,master s
+1139370,Chicago,IL,US,60647,Unknown,business administration social work,2000-01-01,6,33.0,Yes,Yes,8,141.0,unknown
+1139717,Oak Forest,IL,US,60452,High School,not applicable,1990-01-01,2,13.0,No,Yes,4,0.0,high school
+1141722,Chicago,IL,US,60634,Associate's,executive secretarial,1993-11-01,9,15.0,Unknown,No,0,26.0,associate s
+1142056,Bolingbrook,IL,US,60440,Bachelor's,communications concentrating,2008-05-01,6,6.0,Yes,No,0,124.0,bachelor s
+1143355,Winfield,IL,US,60190,PhD,movement rehabilitation sciences,2000-01-01,1,4.0,Yes,Yes,5,0.0,phd
+1143555,Country Club Hills,IL,US,60478,High School,not applicable,1994-01-01,3,14.0,Yes,No,0,0.0,high school
+1144174,Chicago,IL,US,60622,Bachelor's,marketing,1992-05-01,8,19.0,No,No,0,23.0,bachelor s
+1144767,Evanston,IL,US,60201,Unknown,banking finance inititaves,1988-01-01,6,23.0,Yes,No,0,79.0,unknown
+1145168,Melrose Park,IL,US,60160,High School,not applicable,1999-06-01,0,11.0,No,No,0,0.0,high school
+1145558,Aurora,IL,US,60506,High School,not applicable,2000-01-01,7,19.0,No,No,0,0.0,high school
+1146182,Pekin,IL,US,61554,Associate's,education,2011-12-01,6,13.0,No,Yes,12,131.0,associate s
+1147066,Chicago,IL,US,60645,Bachelor's,psychology,2010-01-01,7,6.0,Yes,No,0,173.0,bachelor s
+1147653,Chicago,IL,US,60643,PhD,curriculum instruction,2007-05-01,10,12.0,Yes,Yes,14,0.0,phd
+1147872,Lake in the Hills,IL,US,60156,High School,not applicable,1984-01-01,4,15.0,No,Yes,5,0.0,high school
+1148656,Chicago,IL,US,60644,Unknown,general business,1991-12-01,8,15.0,No,No,0,35.0,unknown
+1149157,Naperville,IL,US,60565,Bachelor's,industrial mgt,1981-01-01,3,15.0,Yes,Yes,37,173.0,bachelor s
+1149453,Joliet,IL,US,60435,Associate's,health administration,2013-05-01,2,4.0,No,No,0,63.0,associate s
+1150788,Jerseyville,IL,US,62052,High School,general studies,1988-05-01,0,11.0,No,No,0,117.0,high school
+1151708,Matteson,IL,US,60443,Bachelor's,psychology,2012-02-01,3,5.0,Yes,No,0,173.0,bachelor s
+1153584,Island Lake,IL,US,60042,Bachelor's,education general,1985-12-01,5,26.0,Unknown,No,0,131.0,bachelor s
+1153839,Lynwood,IL,US,60411,High School,not applicable,2002-01-01,2,7.0,Yes,No,0,0.0,high school
+1156400,Elgin,IL,US,60123,Unknown,culinary arts chef training,2000-01-01,7,7.0,No,No,0,111.0,unknown
+1156419,Sycamore,IL,US,60178,Unknown,unknown,2000-01-01,2,7.0,Yes,No,0,-1.0,unknown
+1157382,Elmhurst,IL,US,60126,Unknown,unknown,2000-01-01,2,26.0,Yes,No,0,-1.0,unknown
+1157844,Tinley Park,IL,US,60487,Associate's,computer networking specialist,2001-09-01,5,9.0,Yes,No,0,110.0,associate s
+1157916,Joliet,IL,US,60436,Associate's,business administration and management general,2012-08-01,4,11.0,Yes,Yes,40,80.0,associate s
+1159390,Forest Park,IL,US,60130,Vocational,food service and management,1996-03-01,6,16.0,Yes,Yes,12,193.0,vocational
+1159839,Hickory Hills,IL,US,60457,Master's,speech language pathology,2011-12-01,4,3.0,No,No,0,0.0,master s
+1160247,Gurnee,IL,US,60031,Unknown,unknown,2000-01-01,9,27.0,No,Yes,10,-1.0,unknown
+1160795,Springfield,IL,US,62707,Associate's,business administration and accounting,1974-06-01,5,22.0,Yes,Yes,35,80.0,associate s
+1161151,Wheaton,IL,US,60189,High School,business administration and management general,1975-06-01,9,36.0,Yes,Yes,6,80.0,high school
+1161236,Buffalo Grove,IL,US,60089,Bachelor's,business studies,2014-12-01,4,13.0,Yes,Yes,30,117.0,bachelor s
+1163276,Tinley Park,IL,US,60477,Bachelor's,finance,2011-08-01,5,13.0,Unknown,No,0,79.0,bachelor s
+1165924,Elmhurst,IL,US,60126,High School,academics,1984-06-01,7,19.0,Yes,No,0,0.0,high school
+1166601,Oak Park,IL,US,60303,Bachelor's,unknown,2011-05-01,10,16.0,Yes,No,0,-1.0,bachelor s
+1166822,Chicago,IL,US,60623,High School,unknown,2000-01-01,4,16.0,No,No,0,-1.0,high school
+1168395,Heyworth,IL,US,61745,High School,education general,1994-05-01,4,13.0,Yes,Yes,140,131.0,high school
+1168669,Millstadt,IL,US,62260,Master's,economics management,1973-08-01,6,38.0,Yes,Yes,30,17.0,master s
+1170255,Chicago,IL,US,60614,Unknown,unknown,2000-01-01,8,15.0,No,No,0,-1.0,unknown
+1170298,Baldwin,IL,US,62217,Unknown,pharmacology,2002-05-01,4,23.0,No,No,0,0.0,unknown
+1170600,Chicago,IL,US,60643,High School,general studies,2002-05-01,3,10.0,No,Yes,25,117.0,high school
+1171347,Carol Stream,IL,US,60188,High School,not applicable,2004-06-01,6,7.0,No,No,0,0.0,high school
+1174656,Alorton,IL,US,62207,Bachelor's,electrical engineering technology,2000-01-01,5,15.0,Unknown,No,0,179.0,bachelor s
+1177410,Zion,IL,US,60099,Master's,navy and an honorable discharge total service,2000-01-01,5,17.0,No,No,0,156.0,master s
+1178499,Pontiac,IL,US,61764,High School,not applicable,2002-01-01,4,10.0,Yes,No,0,0.0,high school
+1178653,Streamwood,IL,US,60107,Bachelor's,nursing,1989-01-01,6,14.0,Yes,No,0,130.0,bachelor s
+1180007,Chicago,IL,US,60636,Bachelor's,business administration,2011-12-01,2,17.0,Unknown,No,0,80.0,bachelor s
+1181103,Belleville,IL,US,62220,Master's,marriage and family counseling,2011-01-01,6,8.0,Yes,No,0,117.0,master s
+1181595,Belleville,IL,US,62221,Bachelor's,accounting,2010-12-01,5,10.0,Yes,No,0,44.0,bachelor s
+1181942,Mount Olive,IL,US,62069,Associate's,nursing program,2009-12-01,3,14.0,Unknown,No,0,76.0,associate s
+1182577,Westchester,IL,US,60154,High School,high school,2007-05-01,2,5.0,Yes,No,0,167.0,high school
+1183096,Park Forest,IL,US,60466,Associate's,medical insurance coding specialist coder,2000-01-01,3,7.0,Yes,No,0,180.0,associate s
+1183852,Bloomington,IL,US,61704,High School,unknown,1974-05-01,1,14.0,Yes,No,0,-1.0,high school
+1184937,Bridgeview,IL,US,60455,Associate's,business management,2006-01-01,3,7.0,No,Yes,50,21.0,associate s
+1185622,Rolling Meadows,IL,US,60008,Vocational,culinary arts chef training,1998-12-01,3,10.0,No,No,0,111.0,vocational
+1186202,Chicago,IL,US,60610,Master's,unknown,2000-01-01,7,15.0,Yes,No,0,-1.0,master s
+1187215,Chicago,IL,US,60656,Bachelor's,computer science,2000-01-01,9,9.0,Yes,No,0,98.0,bachelor s
+1188749,Lisle,IL,US,60532,Bachelor's,unknown,2000-01-01,7,23.0,Unknown,No,0,-1.0,bachelor s
+1190476,Wood Dale,IL,US,60191,Bachelor's,construction management,2009-12-01,3,4.0,Yes,No,0,114.0,bachelor s
+1190735,Berwyn,IL,US,60402,Bachelor's,psychology general,2011-05-01,3,5.0,Yes,No,0,35.0,bachelor s
+1190981,Gurnee,IL,US,60031,Bachelor's,unknown,2000-01-01,4,12.0,Yes,No,0,-1.0,bachelor s
+1191281,Chicago,IL,US,60631,High School,not applicable,1987-01-01,3,23.0,Yes,No,0,0.0,high school
+1191368,Chicago,IL,US,60644,Unknown,unknown,2002-06-01,4,9.0,No,No,0,-1.0,unknown
+1191984,Schaumburg,IL,US,60173,High School,not applicable,1985-01-01,10,25.0,Yes,No,0,0.0,high school
+1192514,Manteno,IL,US,60950,Associate's,business,2011-05-01,4,7.0,Yes,Yes,25,21.0,associate s
+1193382,Chicago,IL,US,60624,Unknown,mediacal assistance program,2004-01-01,2,9.0,Unknown,No,0,76.0,unknown
+1194125,Des Plaines,IL,US,60016,High School,not applicable,1973-03-01,3,38.0,No,No,0,0.0,high school
+1195105,Chicago,IL,US,60657,Master's,biotechnology and chemical science,2011-01-01,4,6.0,No,No,0,98.0,master s
+1195927,Channahon,IL,US,60410,Bachelor's,criminal and social justice,2007-01-01,3,2.0,Yes,No,0,111.0,bachelor s
+1196460,Glen Carbon,IL,US,62034,Unknown,word processing,1987-09-01,5,23.0,No,Yes,8,162.0,unknown
+1198157,Shorewood,IL,US,60404,Bachelor's,sociology,2007-12-01,8,11.0,No,No,0,0.0,bachelor s
+1198181,McHenry,IL,US,60051,High School,not applicable,2009-01-01,2,5.0,Yes,No,0,0.0,high school
+1198474,Bartlett,IL,US,60103,Unknown,marketing mid management,1976-06-01,6,24.0,No,Yes,75,23.0,unknown
+1198681,Chicago,IL,US,60619,Vocational,carpentry,2000-01-01,5,13.0,Yes,Yes,20,0.0,vocational
+1199688,Aurora,IL,US,60504,High School,unknown,2010-05-01,2,2.0,Yes,No,0,-1.0,high school
+1200383,Itasca,IL,US,60143,Bachelor's,communications,1996-05-01,4,15.0,Yes,Yes,1,124.0,bachelor s
+1203993,Joliet,IL,US,60433,Unknown,unknown,2000-01-01,6,10.0,No,Yes,5,-1.0,unknown
+1204203,McHenry,IL,US,60050,Bachelor's,journalism and mass communication,2009-01-01,2,11.0,Yes,No,0,194.0,bachelor s
+1204496,Chicago,IL,US,60617,Associate's,nursing,2012-08-01,5,9.0,Yes,Yes,10,130.0,associate s
+1205340,Grayslake,IL,US,60030,High School,not applicable,2009-01-01,5,33.0,No,No,0,0.0,high school
+1206790,Chicago,IL,US,60609,Unknown,unknown,2000-01-01,0,11.0,No,No,0,-1.0,unknown
+1207690,Chicago,IL,US,60643,Unknown,unknown,2000-01-01,5,5.0,No,No,0,-1.0,unknown
+1209192,Palatine,IL,US,60067,Bachelor's,merchandising,2000-01-01,5,24.0,Yes,Yes,12,17.0,bachelor s
+1209417,Northlake,IL,US,60164,Unknown,english language,2000-01-01,2,2.0,No,Yes,30,40.0,unknown
+1210954,Chicago,IL,US,60620,Master's,social work,2009-05-01,5,11.0,Yes,Yes,30,141.0,master s
+1211567,Chicago,IL,US,60623,Bachelor's,criminal justice,2011-03-01,3,8.0,No,No,0,111.0,bachelor s
+1211590,Chicago,IL,US,60628,Unknown,unknown,2000-01-01,3,14.0,No,No,0,-1.0,unknown
+1212318,McHenry,IL,US,60051,Unknown,unknown,2000-01-01,4,27.0,Yes,No,0,-1.0,unknown
+1213623,Chicago,IL,US,60649,Bachelor's,nursing,2011-09-01,4,5.0,Yes,Yes,30,130.0,bachelor s
+1214470,Cicero,IL,US,60804,Unknown,business administration and management general,2000-01-01,3,14.0,No,No,0,80.0,unknown
+1216599,Evanston,IL,US,60202,Unknown,unknown,2011-12-01,9,19.0,Yes,Yes,20,-1.0,unknown
+1217439,Lansing,IL,US,60438,Unknown,echcardiology,2013-05-01,2,1.0,No,No,0,0.0,unknown
+1218520,Harwood Heights,IL,US,60706,Unknown,unknown,1992-10-01,8,19.0,Yes,No,0,-1.0,unknown
+1218734,Chicago,IL,US,60655,Bachelor's,english,2007-12-01,3,11.0,No,No,0,40.0,bachelor s
+1221184,Cicero,IL,US,60804,Unknown,medical,1999-08-01,3,8.0,No,No,0,30.0,unknown
+1221710,Homewood,IL,US,60430,Master's,educational leadership and administration general,2011-08-01,5,31.0,Yes,Yes,20,80.0,master s
+1222190,Chicago,IL,US,60639,Unknown,unknown,2000-01-01,5,14.0,No,Yes,10,-1.0,unknown
+1222654,Chicago,IL,US,60620,Unknown,unknown,2013-05-01,3,12.0,Yes,No,0,-1.0,unknown
+1223254,Downers Grove,IL,US,60516,Bachelor's,illustration,1988-12-01,0,11.0,No,Yes,5,0.0,bachelor s
+1223753,Elmwood Park,IL,US,60707,Bachelor's,economics,2009-12-01,3,9.0,Yes,No,0,0.0,bachelor s
+1224217,Chicago,IL,US,60645,High School,not applicable,1993-06-01,7,17.0,No,Yes,25,0.0,high school
+1224469,Lake Villa,IL,US,60046,Bachelor's,construction management,2000-01-01,7,12.0,Yes,Yes,2,114.0,bachelor s
+1226670,Woodstock,IL,US,60098,Associate's,business management,2003-05-01,12,17.0,No,No,0,21.0,associate s
+1229859,Lake in the Hills,IL,US,60156,Unknown,unknown,2000-01-01,4,6.0,Unknown,No,0,-1.0,unknown
+1230509,Chicago,IL,US,60623,Unknown,unknown,2000-01-01,5,19.0,Yes,Yes,15,-1.0,unknown
+1231823,Naperville,IL,US,60564,Bachelor's,sociology,2011-06-01,4,4.0,Yes,No,0,0.0,bachelor s
+1232071,Chicago,IL,US,60644,Unknown,unknown,2000-01-01,3,2.0,No,No,0,-1.0,unknown
+1232357,Antioch,IL,US,60002,Unknown,unknown,2000-01-01,4,9.0,Yes,Yes,3,-1.0,unknown
+1232524,Zion,IL,US,60099,High School,not applicable,2000-06-01,4,10.0,Yes,Yes,6,0.0,high school
+1233149,Markham,IL,US,60428,Unknown,unknown,2000-01-01,5,5.0,No,No,0,-1.0,unknown
+1233600,Chicago,IL,US,60644,High School,physical sciences,1989-06-01,1,13.0,Yes,No,0,131.0,high school
+1235408,Naperville,IL,US,60564,Bachelor's,education,1973-01-01,5,17.0,Yes,Yes,20,131.0,bachelor s
+1236823,Round Lake,IL,US,60073,Bachelor's,unknown,2000-01-01,10,14.0,Yes,No,0,-1.0,bachelor s
+1237999,Joliet,IL,US,60432,High School,not applicable,2000-01-01,4,3.0,Yes,No,0,0.0,high school
+1239642,Chicago,IL,US,60625,Unknown,communications,2000-01-01,10,23.0,Yes,No,0,124.0,unknown
+1240221,Riverwoods,IL,US,60015,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+1242718,Chicago,IL,US,60644,Bachelor's,mass communications,2002-08-01,4,6.0,No,No,0,124.0,bachelor s
+1246790,Matteson,IL,US,60443,High School,college university preparatory,1994-01-01,4,12.0,No,Yes,3,0.0,high school
+1248032,Springfield,IL,US,62702,Unknown,basic core studies,2000-01-01,10,39.0,Yes,Yes,48,117.0,unknown
+1249549,Chicago,IL,US,60649,Unknown,unknown,2000-01-01,4,11.0,No,Yes,16,-1.0,unknown
+1249624,North Chicago,IL,US,60064,High School,not applicable,1982-01-01,4,14.0,No,No,0,0.0,high school
+1252592,Naperville,IL,US,60540,Bachelor's,unknown,2000-01-01,6,19.0,No,No,0,-1.0,bachelor s
+1252678,Joliet,IL,US,60436,Bachelor's,management information systems,2002-12-01,3,15.0,No,No,0,134.0,bachelor s
+1252780,Chicago,IL,US,60617,Bachelor's,sociology,2001-01-01,7,18.0,Yes,No,0,0.0,bachelor s
+1253366,Fox Lake,IL,US,60020,Unknown,certified nursing assistant,1998-01-01,4,12.0,Yes,No,0,130.0,unknown
+1253696,Naperville,IL,US,60563,Master's,unknown,2003-01-01,6,11.0,Yes,No,0,-1.0,master s
+1253842,Chicago,IL,US,60645,Master's,information technology,2009-05-01,2,7.0,No,No,0,134.0,master s
+1253854,Chicago,IL,US,60626,Bachelor's,business,2008-05-01,3,5.0,Yes,No,0,21.0,bachelor s
+1254517,Homewood,IL,US,60430,Bachelor's,business and administration,2005-01-01,6,19.0,No,No,0,80.0,bachelor s
+1255752,Lake Zurich,IL,US,60047,Bachelor's,business management industrial management,1980-01-01,4,16.0,No,Yes,300,173.0,bachelor s
+1257211,Chicago,IL,US,60615,High School,business,2008-07-01,5,4.0,Unknown,No,0,21.0,high school
+1258991,Franklin Park,IL,US,60131,Associate's,business administration and management general,2013-06-01,3,20.0,No,Yes,50,80.0,associate s
+1261731,Wauconda,IL,US,60084,Associate's,unknown,2000-01-01,8,12.0,Unknown,No,0,-1.0,associate s
+1263990,Chicago,IL,US,60622,Master's,unknown,2012-05-01,9,8.0,No,No,0,-1.0,master s
+1265446,Cicero,IL,US,60804,High School,not applicable,1986-06-01,4,13.0,No,No,0,0.0,high school
+1266737,Northbrook,IL,US,60062,Master's,business administration and management general,2000-01-01,1,20.0,Unknown,No,0,80.0,master s
+1268514,Lake Villa,IL,US,60046,High School,not applicable,1995-01-01,6,21.0,Yes,No,0,0.0,high school
+1270992,Edwardsville,IL,US,62025,Bachelor's,management and economics,2006-12-01,6,9.0,Yes,Yes,50,17.0,bachelor s
+1271407,Forest Park,IL,US,60130,Master's,marketing,2007-12-01,2,8.0,Yes,Yes,3,23.0,master s
+1271927,Lebanon,IL,US,62254,Bachelor's,ccna voice,2000-01-01,6,10.0,Yes,Yes,8,0.0,bachelor s
+1273084,Gilberts,IL,US,60136,Bachelor's,accounting and finance,2005-12-01,6,14.0,Yes,Yes,5,79.0,bachelor s
+1273827,Chicago,IL,US,60637,Associate's,pre nursing studies,2006-05-01,4,5.0,Yes,No,0,117.0,associate s
+1274045,McHenry,IL,US,60051,Associate's,accounting specialist,2000-01-01,2,18.0,Yes,No,0,44.0,associate s
+1276451,Chicago,IL,US,60616,Bachelor's,political science,2008-06-01,6,8.0,Yes,No,0,98.0,bachelor s
+1276877,Chicago,IL,US,60657,Bachelor's,international studies,2009-05-01,4,10.0,Yes,No,0,191.0,bachelor s
+1278678,Lisle,IL,US,60532,High School,not applicable,2000-01-01,2,10.0,Yes,No,0,0.0,high school
+1281403,Glendale Heights,IL,US,60139,Associate's,executive secretarial development,2000-01-01,5,9.0,Unknown,No,0,58.0,associate s
+1282146,Chicago,IL,US,60649,Master's,information systems,1996-05-01,10,22.0,Yes,No,0,134.0,master s
+1282599,Chicago,IL,US,60647,Unknown,unknown,2000-01-01,4,14.0,Yes,No,0,-1.0,unknown
+1285189,Roselle,IL,US,60172,High School,not applicable,1984-01-01,2,12.0,Unknown,No,0,0.0,high school
+1285239,Chicago,IL,US,60628,High School,unknown,1995-06-01,2,15.0,Yes,No,0,-1.0,high school
+1286565,Chicago,IL,US,60619,Master's,communications science disorders,2000-01-01,6,11.0,No,No,0,124.0,master s
+1286680,Richton Park,IL,US,60471,Unknown,unknown,2000-01-01,2,14.0,No,Yes,6,-1.0,unknown
+1287518,Chicago,IL,US,60605,High School,education general,1989-06-01,6,18.0,Yes,Yes,25,131.0,high school
+1288822,Joliet,IL,US,60435,High School,not applicable,2001-01-01,3,2.0,No,No,0,0.0,high school
+1289002,Glenwood,IL,US,60425,Vocational,hvac,2009-11-01,5,5.0,Unknown,No,0,186.0,vocational
+1289485,Arlington Heights,IL,US,60004,Bachelor's,communications,2003-05-01,8,23.0,Yes,No,0,124.0,bachelor s
+1289629,Naperville,IL,US,60540,Bachelor's,computer information systems,1998-05-01,6,14.0,Unknown,No,0,134.0,bachelor s
+1290851,Chicago,IL,US,60651,Master's,health care administration education,2010-01-01,3,21.0,Yes,Yes,22,131.0,master s
+1291017,Dowell,IL,US,62927,Associate's,information systems and accounting,2009-07-01,6,15.0,Yes,Yes,25,134.0,associate s
+1291985,Chicago,IL,US,60617,Bachelor's,biology,1982-01-01,10,30.0,Yes,No,0,0.0,bachelor s
+1292981,Oak Park,IL,US,60304,Unknown,unknown,2000-01-01,6,22.0,Yes,No,0,-1.0,unknown
+1294244,Oak Lawn,IL,US,60453,PhD,doctor of physical therapy,2016-05-01,4,22.0,Yes,Yes,25,131.0,phd
+1295395,Streamwood,IL,US,60107,Master's,accounting,2000-05-01,4,10.0,Yes,Yes,8,44.0,master s
+1297091,O Fallon,IL,US,62269,Bachelor's,business management,2013-12-01,5,9.0,Yes,Yes,5,21.0,bachelor s
+1297291,Mokena,IL,US,60448,Bachelor's,finance,2000-01-01,7,9.0,Yes,No,0,79.0,bachelor s
+1297775,Chicago,IL,US,60645,Bachelor's,unknown,2009-01-01,4,4.0,Unknown,No,0,-1.0,bachelor s
+1300214,Godfrey,IL,US,62035,Unknown,accounting,2000-01-01,5,13.0,No,Yes,15,44.0,unknown
+1300664,Calumet City,IL,US,60409,High School,not applicable,1995-06-01,4,11.0,Unknown,No,0,0.0,high school
+1301817,Chicago,IL,US,60637,Bachelor's,communications,2009-05-01,4,5.0,Yes,No,0,124.0,bachelor s
+1301943,Volo,IL,US,60073,Bachelor's,consumer affairs,2007-05-01,4,10.0,Yes,No,0,109.0,bachelor s
+1302280,Roselle,IL,US,60172,Bachelor's,communications,1992-05-01,4,17.0,Unknown,No,0,124.0,bachelor s
+1302634,Hillside,IL,US,60162,Unknown,unknown,2000-01-01,3,4.0,No,No,0,-1.0,unknown
+1302660,Flossmoor,IL,US,60422,Associate's,business administration,2000-01-01,6,9.0,No,Yes,30,80.0,associate s
+1303728,Chicago,IL,US,60614,Bachelor's,secondary education,2006-05-01,6,12.0,Yes,No,0,131.0,bachelor s
+1304629,Schaumburg,IL,US,60194,Unknown,databases,2000-01-01,2,8.0,Yes,No,0,0.0,unknown
+1304806,Elgin,IL,US,60123,Vocational,graphic design,2006-08-01,6,8.0,Yes,Yes,22,81.0,vocational
+1305525,Worth,IL,US,60482,High School,general,1982-06-01,3,15.0,No,Yes,25,35.0,high school
+1307602,Naperville,IL,US,60563,Bachelor's,unknown,2005-01-01,6,11.0,Yes,No,0,-1.0,bachelor s
+1308378,Schaumburg,IL,US,60193,Unknown,unknown,2000-01-01,9,12.0,Yes,No,0,-1.0,unknown
+1309305,Chicago,IL,US,60640,Associate's,automotive technology,2007-04-01,7,9.0,Yes,Yes,130,116.0,associate s
+1310157,Chicago,IL,US,60621,High School,computer and information sciences general,2014-06-01,3,6.0,Unknown,No,0,134.0,high school
+1310896,Chicago,IL,US,60620,Bachelor's,unknown,2006-06-01,3,4.0,Yes,Yes,7,-1.0,bachelor s
+1311208,Staunton,IL,US,62088,Associate's,business admin accounting,2004-05-01,5,10.0,Yes,No,0,44.0,associate s
+1311331,Oak Park,IL,US,60302,Master's,health law policy,2012-04-01,9,18.0,Yes,No,0,63.0,master s
+1312979,Wheeling,IL,US,60090,Unknown,marketing,1997-06-01,6,27.0,Yes,Yes,6,23.0,unknown
+1313937,Skokie,IL,US,60076,Unknown,unknown,2000-01-01,5,30.0,Unknown,Yes,3,-1.0,unknown
+1315752,Thornton,IL,US,60476,Associate's,social work,2014-01-01,3,7.0,No,Yes,10,141.0,associate s
+1317315,Orland Park,IL,US,60462,PhD,education,2000-05-01,7,12.0,Yes,Yes,25,131.0,phd
+1317495,Chicago,IL,US,60615,Master's,management,2007-01-01,4,10.0,Yes,Yes,10,17.0,master s
+1318929,Chicago,IL,US,60643,Associate's,nursing registered nurse rn asn bsn msn,2001-05-01,10,10.0,No,No,0,39.0,associate s
+1319687,Chicago,IL,US,60623,Associate's,business administration,2013-01-01,5,12.0,Yes,Yes,8,80.0,associate s
+1320949,Granite City,IL,US,62040,Associate's,business management,2000-01-01,6,15.0,Yes,No,0,21.0,associate s
+1323352,Chicago,IL,US,60619,High School,unknown,1996-06-01,3,6.0,Yes,Yes,6,-1.0,high school
+1324726,Downers Grove,IL,US,60515,Unknown,accounting,2012-04-01,2,12.0,Yes,Yes,20,44.0,unknown
+1327763,Chicago,IL,US,60652,Associate's,science and computer,2010-01-01,6,11.0,Yes,Yes,30,98.0,associate s
+1330009,Westchester,IL,US,60154,Unknown,unknown,2008-07-01,4,9.0,Yes,No,0,-1.0,unknown
+1332327,Chicago,IL,US,60630,Unknown,unknown,2000-01-01,6,18.0,Yes,Yes,50,-1.0,unknown
+1333625,Park Forest,IL,US,60466,Bachelor's,business administration,1983-06-01,3,15.0,Yes,No,0,80.0,bachelor s
+1335366,Chicago,IL,US,60661,Bachelor's,business administration,2007-05-01,5,11.0,Unknown,No,0,80.0,bachelor s
+1336142,Channahon,IL,US,60410,Master's,unknown,2000-01-01,7,16.0,Yes,No,0,-1.0,master s
+1346620,Round Lake Heights,IL,US,60073,Master's,counseling,1996-01-01,10,15.0,Unknown,No,0,0.0,master s
+1346765,Decatur,IL,US,62526,Bachelor's,unknown,2013-01-01,4,12.0,No,No,0,-1.0,bachelor s
+1347501,Palos Hills,IL,US,60465,Unknown,business,2013-12-01,4,6.0,No,No,0,21.0,unknown
+1348815,Newark,IL,US,60541,Unknown,unknown,2006-04-01,4,6.0,No,Yes,2,-1.0,unknown
+1349003,Richton Park,IL,US,60471,High School,not applicable,2000-01-01,3,9.0,Yes,No,0,0.0,high school
+1349506,Forest Park,IL,US,60130,Bachelor's,business administration management,2013-04-01,7,11.0,No,No,0,80.0,bachelor s
+1350741,Calumet City,IL,US,60409,Unknown,unknown,2002-01-01,1,13.0,No,No,0,-1.0,unknown
+1351316,Oak Lawn,IL,US,60453,Bachelor's,accounting and financial management,2000-01-01,5,30.0,Yes,Yes,50,69.0,bachelor s
+1351469,Mount Prospect,IL,US,60056,Master's,unknown,2000-01-01,4,14.0,Yes,No,0,-1.0,master s
+1354190,Waynesville,IL,US,61778,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+1354234,Chicago,IL,US,60614,Bachelor's,unknown,2009-06-01,3,7.0,Yes,No,0,-1.0,bachelor s
+1354473,Chicago Heights,IL,US,60411,Associate's,unknown,1970-01-01,2,25.0,Unknown,No,0,-1.0,associate s
+1358304,Crystal Lake,IL,US,60014,Unknown,psychology,1999-01-01,6,18.0,Yes,Yes,30,173.0,unknown
+1358878,Palatine,IL,US,60074,Associate's,architectural drafting technology,1977-06-01,6,23.0,No,Yes,15,128.0,associate s
+1359506,Naperville,IL,US,60564,Bachelor's,communications,2012-05-01,5,9.0,Yes,No,0,124.0,bachelor s
+1361561,Chicago,IL,US,60610,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+1361733,Winthrop Harbor,IL,US,60096,Associate's,general studies,2011-05-01,3,12.0,Yes,Yes,6,117.0,associate s
+1361879,Chicago,IL,US,60651,Unknown,pharmacy technician,2010-01-01,5,14.0,Yes,No,0,164.0,unknown
+1363068,Rolling Meadows,IL,US,60008,High School,not applicable,2003-01-01,2,8.0,Yes,Yes,1,0.0,high school
+1364518,Westmont,IL,US,60559,Associate's,medical transcription,2010-11-01,1,1.0,Yes,No,0,30.0,associate s
+1365020,Aurora,IL,US,60504,High School,ged,2009-01-01,2,4.0,No,No,0,0.0,high school
+1365447,Chicago,IL,US,60626,Unknown,unknown,2000-01-01,5,11.0,No,No,0,-1.0,unknown
+1368077,Evanston,IL,US,60201,Unknown,unknown,2000-01-01,5,21.0,Unknown,No,0,-1.0,unknown
+1368937,Chicago,IL,US,60644,High School,not applicable,2000-01-01,1,3.0,No,No,0,0.0,high school
+1371887,Chicago,IL,US,60634,Master's,finance,1992-01-01,3,22.0,Yes,Yes,5,79.0,master s
+1372411,Plainfield,IL,US,60585,Bachelor's,accounting and finance,1997-03-01,7,24.0,Yes,Yes,5,79.0,bachelor s
+1374484,Chicago,IL,US,60629,High School,carpentry carpenter architecture,1997-06-01,5,15.0,Yes,Yes,6,132.0,high school
+1374750,Aurora,IL,US,60506,Associate's,business,2011-05-01,3,9.0,Unknown,No,0,21.0,associate s
+1375616,Chicago,IL,US,60645,Master's,computer science,2000-01-01,5,7.0,No,No,0,98.0,master s
+1376955,Riverdale,IL,US,60827,Bachelor's,marketing management,2006-06-01,4,13.0,Yes,Yes,5,23.0,bachelor s
+1379017,Berwyn,IL,US,60402,Bachelor's,forensic criminal investigations,2010-05-01,3,7.0,Yes,Yes,3,111.0,bachelor s
+1379481,Belleville,IL,US,62221,High School,not applicable,2000-01-01,5,17.0,Yes,Yes,15,0.0,high school
+1380955,Palos Hills,IL,US,60465,High School,not applicable,2000-01-01,5,21.0,Yes,No,0,0.0,high school
+1381931,Chicago,IL,US,60629,Associate's,health care administration,2012-06-01,2,6.0,No,No,0,63.0,associate s
+1382550,Country Club Hills,IL,US,60478,Unknown,nursing,1992-09-01,6,22.0,Yes,Yes,10,130.0,unknown
+1383501,Peoria,IL,US,61614,Bachelor's,welding engineering,2010-05-01,5,29.0,Yes,Yes,5,170.0,bachelor s
+1384245,Rantoul,IL,US,61866,High School,not applicable,1990-06-01,6,12.0,Yes,No,0,0.0,high school
+1384433,Evergreen Park,IL,US,60805,Unknown,general studies,2000-01-01,4,12.0,No,Yes,10,117.0,unknown
+1384681,Chicago,IL,US,60628,Unknown,unknown,2000-01-01,4,6.0,No,No,0,-1.0,unknown
+1386603,Chicago,IL,US,60651,Associate's,cns computer network systems,2013-06-01,3,6.0,No,No,0,101.0,associate s
+1387943,Chicago,IL,US,60615,Unknown,sociology,2000-01-01,3,14.0,Yes,No,0,0.0,unknown
+1389577,Belleville,IL,US,62226,Vocational,practical nursing program,1995-05-01,3,13.0,Yes,No,0,76.0,vocational
+1390796,Saint Charles,IL,US,60175,Associate's,microcomputer specialist,2011-06-01,3,3.0,No,No,0,3.0,associate s
+1392470,Saint Charles,IL,US,60174,Associate's,early childhood education,2013-09-01,2,11.0,No,Yes,8,131.0,associate s
+1394281,Freeport,IL,US,61032,Unknown,business,2000-01-01,5,11.0,Yes,No,0,21.0,unknown
+1394803,Chicago,IL,US,60640,Bachelor's,kinesiology,1997-07-01,3,12.0,No,No,0,0.0,bachelor s
+1396045,Maywood,IL,US,60153,Unknown,accounting and business management,2000-01-01,5,11.0,No,No,0,44.0,unknown
+1396167,Chicago,IL,US,60651,Associate's,unknown,2000-01-01,4,7.0,No,No,0,-1.0,associate s
+1396645,Schaumburg,IL,US,60194,Unknown,unknown,2000-01-01,2,11.0,Unknown,No,0,-1.0,unknown
+1396886,Wheeling,IL,US,60090,Unknown,transportation law business management,1987-01-01,6,29.0,No,No,0,21.0,unknown
+1398461,Chicago,IL,US,60634,Unknown,unknown,2000-01-01,6,19.0,No,No,0,-1.0,unknown
+1399185,Chicago,IL,US,60653,Vocational,telecommunications technology technician,2004-12-01,4,11.0,No,Yes,20,128.0,vocational
+1402252,Chicago,IL,US,60644,High School,not applicable,1997-01-01,4,9.0,Unknown,No,0,0.0,high school
+1402740,Minooka,IL,US,60447,Bachelor's,accounting,2012-02-01,3,13.0,Yes,No,0,44.0,bachelor s
+1404895,Aurora,IL,US,60504,High School,not applicable,2005-01-01,5,9.0,Yes,No,0,0.0,high school
+1405605,Chicago,IL,US,60618,Bachelor's,marketing and accounting,1980-06-01,5,16.0,No,Yes,8,44.0,bachelor s
+1406723,McHenry,IL,US,60050,High School,math science metal shop drafting and automotive,1987-06-01,9,24.0,No,Yes,30,98.0,high school
+1406804,Matteson,IL,US,60443,Bachelor's,unknown,2000-01-01,4,17.0,No,Yes,10,-1.0,bachelor s
+1406890,Palos Hills,IL,US,60465,Vocational,licensed practical vocational nurse training lpn lvn cert,2000-07-01,6,7.0,Yes,Yes,30,107.0,vocational
+1409012,Berkeley,IL,US,60163,Bachelor's,accounting and business management,1999-06-01,2,13.0,Yes,No,0,44.0,bachelor s
+1409045,Park Forest,IL,US,60466,Unknown,nurse nursing assistant aide and patient care assistant,2011-04-01,3,2.0,No,No,0,135.0,unknown
+1411131,Chicago,IL,US,60653,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+1411940,Batavia,IL,US,60510,Bachelor's,interior design,1985-06-01,2,8.0,Yes,Yes,10,81.0,bachelor s
+1413073,Chicago,IL,US,60656,High School,not applicable,1982-01-01,8,21.0,Yes,No,0,0.0,high school
+1413636,Schaumburg,IL,US,60193,High School,not applicable,1993-06-01,4,10.0,Yes,No,0,0.0,high school
+1415047,Annawan,IL,US,61234,High School,not applicable,2000-01-01,3,12.0,No,Yes,20,0.0,high school
+1416418,Wheaton,IL,US,60189,Unknown,parks and recreation,2000-01-01,5,28.0,Yes,No,0,0.0,unknown
+1416763,Mundelein,IL,US,60060,Bachelor's,psychology,2008-05-01,4,9.0,Unknown,No,0,173.0,bachelor s
+1417903,Des Plaines,IL,US,60016,Bachelor's,civil engineering,1987-06-01,8,20.0,No,No,0,170.0,bachelor s
+1418279,Romeoville,IL,US,60446,High School,unknown,2010-05-01,3,5.0,Yes,No,0,-1.0,high school
+1419229,La Salle,IL,US,61301,High School,cosmetology cosmetologist general accounting,2001-06-01,3,5.0,No,Yes,8,44.0,high school
+1421285,Chicago,IL,US,60543,Bachelor's,finance,1998-01-01,5,13.0,Yes,No,0,79.0,bachelor s
+1421982,Steger,IL,US,60475,Bachelor's,technical management,2008-06-01,7,10.0,Unknown,No,0,74.0,bachelor s
+1422427,Cicero,IL,US,60804,Bachelor's,criminal law and justoce,2013-05-01,2,5.0,Yes,No,0,111.0,bachelor s
+1422691,Schaumburg,IL,US,60193,Bachelor's,business and engineering,2003-05-01,7,13.0,Yes,Yes,3,170.0,bachelor s
+1422877,Maryville,IL,US,62062,Unknown,design and administration,2012-04-01,6,12.0,No,No,0,81.0,unknown
+1422990,Chicago,IL,US,60620,Associate's,nursing,2013-05-01,4,13.0,Unknown,No,0,130.0,associate s
+1423508,Arlington Heights,IL,US,60004,Unknown,computer and information sciences general,2004-06-01,5,6.0,No,Yes,15,134.0,unknown
+1423622,Elgin,IL,US,60120,Unknown,unknown,2000-01-01,6,10.0,Yes,No,0,-1.0,unknown
+1427060,Downers Grove,IL,US,60515,Bachelor's,finance and accounting,1983-03-01,9,26.0,No,Yes,10,79.0,bachelor s
+1427771,Crest Hill,IL,US,60403,Master's,communication studies psychology,1992-01-01,3,18.0,Unknown,No,0,194.0,master s
+1428482,Plainfield,IL,US,60544,Master's,business administration,1990-12-01,7,20.0,No,Yes,9,80.0,master s
+1429443,Glendale Heights,IL,US,60139,Master's,business administration,2011-04-01,4,7.0,Yes,No,0,80.0,master s
+1430671,Elk Grove Village,IL,US,60007,Bachelor's,accountancy,2000-01-01,0,11.0,No,Yes,4,0.0,bachelor s
+1431983,Oswego,IL,US,60543,Bachelor's,computer animation,2007-06-01,2,8.0,Yes,No,0,110.0,bachelor s
+1432087,Shorewood,IL,US,60543,Bachelor's,fiction writing,2000-01-01,2,5.0,No,No,0,0.0,bachelor s
+1432733,Chicago,IL,US,60645,Unknown,unknown,2000-01-01,5,13.0,No,Yes,3,-1.0,unknown
+1433321,Dolton,IL,US,60419,Unknown,unknown,2004-01-01,2,10.0,No,No,0,-1.0,unknown
+1433392,Maywood,IL,US,60153,Bachelor's,history,2009-05-01,6,20.0,Yes,Yes,42,0.0,bachelor s
+1433702,East Peoria,IL,US,61611,Associate's,arts science,2011-01-01,4,18.0,Yes,No,0,111.0,associate s
+1434787,Hinsdale,IL,US,60521,High School,not applicable,2009-05-01,4,4.0,Yes,No,0,0.0,high school
+1437865,Franklin Park,IL,US,60131,Bachelor's,3d animation and visual communication,2005-10-01,5,9.0,Yes,Yes,5,194.0,bachelor s
+1438750,Clarendon Hills,IL,US,60514,Unknown,project management,2000-01-01,4,19.0,No,No,0,27.0,unknown
+1439712,Skokie,IL,US,60076,High School,accounting basic computer,1987-06-01,6,8.0,No,Yes,15,110.0,high school
+1441271,Oswego,IL,US,60543,High School,not applicable,2005-05-01,3,5.0,No,No,0,0.0,high school
+1441284,Manteno,IL,US,60950,High School,technology,1975-06-01,8,27.0,Yes,Yes,6,128.0,high school
+1441320,Rockford,IL,US,61108,High School,not applicable,1984-01-01,2,12.0,Yes,No,0,0.0,high school
+1441692,South Holland,IL,US,60473,Bachelor's,computer science,2010-06-01,8,12.0,Unknown,No,0,98.0,bachelor s
+1441915,Joliet,IL,US,60432,High School,communication,1994-06-01,0,11.0,No,Yes,16,194.0,high school
+1444139,Chicago,IL,US,60615,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
+1444890,Riverside,IL,US,60546,Bachelor's,computer and information sciences general,2012-03-01,5,18.0,Unknown,No,0,134.0,bachelor s
+1446293,Markham,IL,US,60428,Bachelor's,marketing,1996-05-01,10,10.0,Yes,No,0,23.0,bachelor s
+1446493,Pontiac,IL,US,61764,Vocational,electronics and computer technology,2002-03-01,6,15.0,Yes,No,0,128.0,vocational
+1446927,Chicago,IL,US,60651,Unknown,unknown,2000-01-01,2,5.0,Unknown,No,0,-1.0,unknown
+1449283,Saint Charles,IL,US,60175,Bachelor's,communications arts,2002-05-01,2,10.0,Yes,Yes,7,111.0,bachelor s
+1449816,Chicago,IL,US,60651,Associate's,cad technology,1996-06-01,13,13.0,No,Yes,1,128.0,associate s
+1451117,Naperville,IL,US,60540,Bachelor's,computer application,1997-12-01,10,16.0,Yes,No,0,41.0,bachelor s
+1452641,Chicago,IL,US,60609,Unknown,business administration,2000-01-01,4,8.0,Yes,Yes,1,80.0,unknown
+1453170,Crystal Lake,IL,US,60014,Bachelor's,unknown,2000-01-01,4,9.0,No,No,0,-1.0,bachelor s
+1453429,Glen Ellyn,IL,US,60137,Master's,unknown,2000-01-01,5,26.0,Yes,No,0,-1.0,master s
+1453589,Pingree Grove,IL,US,60140,Bachelor's,web design and development,2011-10-01,5,15.0,Yes,No,0,166.0,bachelor s
+1453675,Chicago,IL,US,60609,Master's,business administration and management general,2011-07-01,4,12.0,Yes,Yes,5,80.0,master s
+1454484,Glen Ellyn,IL,US,60137,Bachelor's,criminal justice,1992-06-01,6,27.0,Yes,Yes,120,111.0,bachelor s
+1455364,Glenwood,IL,US,60425,Unknown,liberal arts,2000-01-01,5,32.0,Yes,Yes,5,111.0,unknown
+1455534,Chicago,IL,US,60619,Unknown,unknown,2000-01-01,4,8.0,No,Yes,10,-1.0,unknown
+1456040,Chicago,IL,US,60680,Master's,unknown,2012-01-01,7,17.0,No,No,0,-1.0,master s
+1456130,Melrose Park,IL,US,60160,Unknown,unknown,2000-01-01,10,21.0,Yes,No,0,-1.0,unknown
+1457563,South Beloit,IL,US,61080,Bachelor's,business management,1984-08-01,0,11.0,No,Yes,600,21.0,bachelor s
+1459281,Hampshire,IL,US,60140,Master's,information technology,2008-03-01,10,23.0,Yes,Yes,37,134.0,master s
+1461035,Warrenville,IL,US,60555,Bachelor's,economics,2000-01-01,8,27.0,Yes,No,0,0.0,bachelor s
+1461206,Lombard,IL,US,60148,Master's,computer science telecommunications and distributed system,2009-12-01,9,12.0,No,No,0,98.0,master s
+1461522,Rockford,IL,US,61107,Unknown,business law,2000-01-01,5,17.0,Yes,No,0,21.0,unknown
+1464444,Chicago,IL,US,60628,High School,unknown,1993-06-01,5,16.0,Yes,Yes,7,-1.0,high school
+1464536,Chicago,IL,US,60655,Bachelor's,business management,2005-08-01,3,5.0,No,No,0,21.0,bachelor s
+1464984,Plainfield,IL,US,60586,Associate's,unknown,2000-12-01,6,14.0,No,No,0,-1.0,associate s
+1465230,Chicago,IL,US,60657,Bachelor's,mechanical engineering,2000-12-01,6,12.0,Yes,No,0,148.0,bachelor s
+1465407,Morton Grove,IL,US,60053,Master's,unknown,2001-01-01,3,12.0,Yes,Yes,4,-1.0,master s
+1466613,Chicago,IL,US,60616,Bachelor's,marketing,2002-01-01,5,12.0,Yes,No,0,23.0,bachelor s
+1467065,Dolton,IL,US,60419,Master's,human resources management personnel administration general,2005-05-01,5,12.0,Yes,Yes,3,49.0,master s
+1467671,Bolingbrook,IL,US,60440,Bachelor's,project management,2000-12-01,4,18.0,No,Yes,25,27.0,bachelor s
+1468160,Chicago,IL,US,60632,Associate's,medical insurance specialist medical biller,2009-11-01,2,6.0,No,No,0,30.0,associate s
+1468298,Barrington,IL,US,60010,Bachelor's,accounting,1983-05-01,9,28.0,Yes,Yes,150,44.0,bachelor s
+1468463,Chicago,IL,US,60657,Bachelor's,accountancy,1979-01-01,7,26.0,No,No,0,0.0,bachelor s
+1468470,Ringwood,IL,US,60072,Associate's,marketing management,1992-01-01,2,30.0,No,No,0,23.0,associate s
+1468875,Chicago,IL,US,60625,Unknown,unknown,2000-01-01,5,9.0,Unknown,No,0,-1.0,unknown
+1469183,Naperville,IL,US,60543,Bachelor's,computer science and mathematics,1981-01-01,6,30.0,Yes,Yes,187,98.0,bachelor s
+1469336,Chicago,IL,US,60654,Bachelor's,economics,2000-01-01,7,22.0,Yes,No,0,0.0,bachelor s
+1470394,Dekalb,IL,US,60115,Bachelor's,finance,2012-05-01,3,2.0,No,No,0,79.0,bachelor s
+1472022,Elmhurst,IL,US,60126,Unknown,unknown,2000-01-01,0,11.0,Unknown,No,0,-1.0,unknown
